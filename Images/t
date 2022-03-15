@@ -1,0 +1,6 @@
+print("""""
+Que voulez vous faire ?
+1. 🤸  Enregistrer une nouvelle activité
+2. 🏦  Consulter ma banque
+3. 🏠  Consulter ma grange
+"")
