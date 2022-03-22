@@ -21,7 +21,7 @@ import json
 def transform():    
     numPok = 1
     csvFilePath = r'../Data/pokemon.csv'
-    jsonFilePath = r'../Data/pokemon.json'
+    jsonFilePath = r'../Data/image.json'
         
     # create a dictionary
     data = {}
@@ -36,10 +36,10 @@ def transform():
             
             #on ne recupere que les pokemon avec 2 types
             if rows.get('Type2') != None: 
-                # Assuming a column named 'No' to
-                # be the primary key
+                # on ajoute numPok pour avoir un numero comme clé 
                 key = numPok
-
+                
+                rows['Tags'] = ""
                 data[key] = rows
                 numPok+=1
 

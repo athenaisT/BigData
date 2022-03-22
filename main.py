@@ -1,8 +1,14 @@
 from src import display as dis
 from src import nettoyage as net
 
+# git push https://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@github.com/athenaisT/BigData.git
+
 dis.print_menu()
 net.transform()
+
+
+
+
 
 
 # classe DAOdeCSV, collect, nettoyage,traitement(classification), display, main
