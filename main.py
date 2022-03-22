@@ -1,54 +1,32 @@
-import os
+from src import display as dis
+from src import nettoyage as net
 
-menu_options = {
-    1: 'Images',
-    2: 'Stats user',
-    4: 'Exit',
-}
-
-def clearConsole():
-    command = 'clear'
-    if os.name in ('nt', 'dos'):  # If Machine is running on Windows, use cls
-        command = 'cls'
-    os.system(command)
+dis.print_menu()
+net.transform()
 
 
-def print_menu():
-    for key in menu_options.keys():
-        print (key, '--', menu_options[key] )
+# classe DAOdeCSV, collect, nettoyage,traitement(classification), display, main
+#bdd/JSON => user (id), images(info csv), pref(user/images)
 
-def option1():
-    clearConsole()
-    print('Images\'Option 1\'')
-    try:
-        option = int(input('Enter your choice: '))
-    except:
-        print('Mauvais numéro ...')
+#DAO de JSON(bdd) : 
+# - user -> read create
+# - images -> read update delete (create si collecte via API)
+# - pref -> crud
 
+#collect : co API
 
-def option2():
-     clearConsole()
-     print('Stat\'Option 2\'')
-     try:
-        option = int(input('Enter your choice: '))
-     except:
-        print('Mauvais numéro ...')
+#nettoyage : suppr data not use + mis en forme
+# - supression des photos avec que 1 type
 
-if __name__=='__main__':
-    while(True):
-        print_menu()
-        option = ''
-        try:
-            option = int(input('Enter your choice: '))
-        except:
-            print('Mauvais numéro ...')
-        #Check what choice was entered and act accordingly
-        if option == 1:
-           option1()
-        elif option == 2:
-            option2()
-        elif option == 4:
-            print('Au revoir')
-            exit()
-        else:
-            print('Mauvaise saisie.')
+#traitement : 
+# - like photo -> utilisation crud pref
+# - ajout tag -> crud image
+#- generation des stats pour les courbes
+
+#display
+#- generation et affcihage des courbes
+#- generation menu
+
+#main
+# - appelle display (menu)
+# 
