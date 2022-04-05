@@ -5,12 +5,15 @@ import math
 import matplotlib.pyplot as plot
 from sklearn.cluster import KMeans
 from os import listdir
-from os.path import isfile, join
+from os.path import isfile, join, exists
 import scipy
 import scipy.cluster
 import pandas as pd
 import csv
 import json
+import binascii
+import struct
+import scipy.misc
 
 #nettoyage : suppr data not use + mis en forme
 # - supression des photos avec que 1 type
@@ -20,8 +23,8 @@ import json
 #Transformation du csv en JSON
 def transform():    
     numPok = 1
-    csvFilePath = r'../Data/pokemon.csv'
-    jsonFilePath = r'../Data/image.json'
+    csvFilePath = r"Data/pokemon.csv" 
+    jsonFilePath = r"Data/image.json"
         
     # create a dictionary
     data = {}
@@ -40,8 +43,22 @@ def transform():
                 key = numPok
                 
                 rows['Tags'] = ""
-                data[key] = rows
-                numPok+=1
+
+                # ajout chemin 
+                filepath = "Images/" + rows['Name']
+
+                if exists(filepath+".png"):
+                    rows["FilePath"] = filepath + ".png"
+                else:
+                    rows["FilePath"] = filepath + ".jpg"
+
+                # ajout de la couleur
+                rows["MainColor"] = str(findColor(rows["FilePath"]))
+
+                # ajout de la ligne dans les données s'il y a une couleur principale
+                if rows["MainColor"] != "":
+                    data[key] = rows
+                    numPok+=1
 
     # Open a json writer, and use the json.dumps()
     # function to dump data
@@ -50,23 +67,22 @@ def transform():
 
 
 
-# Trouver couleur des images ( on prend 2e couleur car sinon c'est le fond)
-def findColor():
-    mypath = ("../Images")
-    onlyfiles = [f for f in listdir(mypath) if isfile(join(mypath, f))]
+# Trouver couleur des images ( on prend la 2e couleur car sinon c'est le fond)
+def findColor(Path):
+    # print (Path)
 
-    print (onlyfiles)
+    if exists(Path) :
+        try:
+            NUM_CLUSTERS = 2
 
-    NUM_CLUSTERS = 2
+            im = Image.open(Path)
+            ar = np.asarray(im)
+            shape = ar.shape
+            ar = ar.reshape(np.product(shape[:2]), shape[2]).astype(float)
 
-    for i in onlyfiles :
-        i = mypath + "/" + i
-
-        im = Image.open(i)
-        ar = np.asarray(im)
-        shape = ar.shape
-        ar = ar.reshape(np.product(shape[:2]), shape[2]).astype(float)
-
-        codes, dist = scipy.cluster.vq.kmeans(ar, NUM_CLUSTERS)
-        print('deuxieme couleur :\n', codes[1])
+            codes, dist = scipy.cluster.vq.kmeans(ar, NUM_CLUSTERS)
+            # print('deuxieme couleur :\n', codes[1])
+            return codes[1]
+        except :
+            return ""
 

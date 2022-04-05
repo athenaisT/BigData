@@ -1,4 +1,4 @@
-from ../Data import pref.json
+from ./Data import pref.json
 from PIL import Image
 
 import numpy as np

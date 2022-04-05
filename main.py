@@ -1,10 +1,12 @@
 from src import display as dis
 from src import nettoyage as net
+from DAO import DAOuser as user 
 
 # git push https://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@github.com/athenaisT/BigData.git
 
-dis.print_menu()
-net.transform()
+dis.menu()
+#net.transform()
+#user.create(3)
 
 
 

@@ -73,7 +73,7 @@ def option2():
      except:
         print('Mauvais numéro ...')
 
-if __name__=='__main__':
+def menu():
     while(True):
         print_menu()
         option = ''
@@ -83,7 +83,7 @@ if __name__=='__main__':
             print('Mauvais numéro ...')
         #Check what choice was entered and act accordingly
         if option == 1:
-           option1()
+            option1()
         elif option == 2:
             option2()
         elif option == 4:
