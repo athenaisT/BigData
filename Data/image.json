@@ -1,2674 +1,3234 @@
 {
     "1": {
+        "Name": "bulbasaur",
+        "Type1": "Grass",
+        "Type2": "Poison",
+        "Tags": [],
+        "FilePath": "Images/bulbasaur.jpg",
+        "MainColor": "None"
+    },
+    "2": {
         "Name": "ivysaur",
         "Type1": "Grass",
         "Type2": "Poison",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/ivysaur.png",
-        "MainColor": "[0.00137897 0.         0.         0.2068462 ]"
+        "MainColor": "[144.94256757 155.8484556  162.40057915 243.39044402]"
     },
-    "2": {
+    "3": {
         "Name": "venusaur",
         "Type1": "Grass",
         "Type2": "Poison",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/venusaur.png",
-        "MainColor": "[145.34156071 175.7417103  169.82971827 242.23834455]"
+        "MainColor": "[0.00327269 0.00654538 0.00490904 0.12272596]"
     },
-    "3": {
+    "4": {
         "Name": "charizard",
         "Type1": "Fire",
         "Type2": "Flying",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/charizard.png",
-        "MainColor": "[165.33634808 165.2569054  130.24566121 235.28232706]"
+        "MainColor": "[0. 0. 0. 0.]"
     },
-    "4": {
+    "5": {
         "Name": "butterfree",
         "Type1": "Bug",
         "Type2": "Flying",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/butterfree.png",
         "MainColor": "[161.89821883 162.15521628 167.6779353  239.53253362]"
     },
-    "5": {
+    "6": {
         "Name": "weedle",
         "Type1": "Bug",
         "Type2": "Poison",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/weedle.png",
-        "MainColor": "[0.00124133 0.00124133 0.00124133 0.0558598 ]"
+        "MainColor": "[201.07801418 167.58723404 134.26382979 240.02553191]"
     },
-    "6": {
+    "7": {
+        "Name": "kakuna",
+        "Type1": "Bug",
+        "Type2": "Poison",
+        "Tags": [],
+        "FilePath": "Images/kakuna.jpg",
+        "MainColor": "None"
+    },
+    "8": {
         "Name": "beedrill",
         "Type1": "Bug",
         "Type2": "Poison",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/beedrill.png",
         "MainColor": "[210.01137539 206.45260255 195.98104102 139.64495002]"
     },
-    "7": {
+    "9": {
         "Name": "pidgey",
         "Type1": "Normal",
         "Type2": "Flying",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/pidgey.png",
-        "MainColor": "[0.00381024 0.00254016 0.00381024 0.11430706]"
+        "MainColor": "[193.93694581 177.5044335  138.43546798 238.53596059]"
     },
-    "8": {
+    "10": {
         "Name": "pidgeotto",
         "Type1": "Normal",
         "Type2": "Flying",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/pidgeotto.png",
         "MainColor": "[0.01892945 0.         0.         0.12168933]"
     },
-    "9": {
+    "11": {
         "Name": "pidgeot",
         "Type1": "Normal",
         "Type2": "Flying",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/pidgeot.png",
-        "MainColor": "[212.98443983 199.39799447 157.92289073 235.67219917]"
+        "MainColor": "[0.03249913 0.0177268  0.01624957 0.26590198]"
     },
-    "10": {
+    "12": {
         "Name": "spearow",
         "Type1": "Normal",
         "Type2": "Flying",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/spearow.png",
         "MainColor": "[0.00127188 0.         0.         0.03815652]"
     },
-    "11": {
+    "13": {
         "Name": "fearow",
         "Type1": "Normal",
         "Type2": "Flying",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/fearow.png",
         "MainColor": "[183.51095129 142.00457666  99.8993135  232.35371036]"
     },
-    "12": {
+    "14": {
         "Name": "nidoqueen",
         "Type1": "Poison",
         "Type2": "Ground",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/nidoqueen.png",
         "MainColor": "[149.17131858 171.48251524 183.7574591  245.00288739]"
     },
-    "13": {
+    "15": {
         "Name": "nidoking",
         "Type1": "Poison",
         "Type2": "Ground",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/nidoking.png",
-        "MainColor": "[0.00469527 0.00313018 0.00313018 0.07042902]"
+        "MainColor": "[175.41294517 147.52911249 176.71763708 243.00678349]"
     },
-    "14": {
+    "16": {
+        "Name": "jigglypuff",
+        "Type1": "Normal",
+        "Type2": "Fairy",
+        "Tags": [],
+        "FilePath": "Images/jigglypuff.jpg",
+        "MainColor": "None"
+    },
+    "17": {
+        "Name": "wigglytuff",
+        "Type1": "Normal",
+        "Type2": "Fairy",
+        "Tags": [],
+        "FilePath": "Images/wigglytuff.jpg",
+        "MainColor": "None"
+    },
+    "18": {
         "Name": "zubat",
         "Type1": "Poison",
         "Type2": "Flying",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/zubat.png",
         "MainColor": "[121.9818689  106.82426778 140.31659693 232.67712692]"
     },
-    "15": {
+    "19": {
         "Name": "golbat",
         "Type1": "Poison",
         "Type2": "Flying",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/golbat.png",
         "MainColor": "[0.02488068 0.03223535 0.04334559 0.02261169]"
     },
-    "16": {
+    "20": {
         "Name": "oddish",
         "Type1": "Grass",
         "Type2": "Poison",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/oddish.png",
         "MainColor": "[0. 0. 0. 0.]"
     },
-    "17": {
+    "21": {
         "Name": "gloom",
         "Type1": "Grass",
         "Type2": "Poison",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/gloom.png",
         "MainColor": "[129.43995447 119.27205464 125.29197496 237.883893  ]"
     },
-    "18": {
+    "22": {
         "Name": "vileplume",
         "Type1": "Grass",
         "Type2": "Poison",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/vileplume.png",
-        "MainColor": "[148.46122449 115.88928571 133.40459184 243.09132653]"
+        "MainColor": "[0. 0. 0. 0.]"
     },
-    "19": {
+    "23": {
         "Name": "paras",
         "Type1": "Bug",
         "Type2": "Grass",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/paras.png",
-        "MainColor": "[0.00127541 0.00382624 0.00510166 0.26783705]"
+        "MainColor": "[203.31839402 159.99159664 107.74416433 237.04761905]"
     },
-    "20": {
+    "24": {
         "Name": "parasect",
         "Type1": "Bug",
         "Type2": "Grass",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/parasect.png",
-        "MainColor": "[220.99652023 168.47324924 129.06568073 242.88777729]"
+        "MainColor": "[0.01685811 0.01123874 0.01123874 0.25287166]"
     },
-    "21": {
+    "25": {
         "Name": "venonat",
         "Type1": "Bug",
         "Type2": "Poison",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/venonat.png",
-        "MainColor": "[145.6        123.83816794 166.19694656 236.3129771 ]"
+        "MainColor": "[0. 0. 0. 0.]"
     },
-    "22": {
+    "26": {
+        "Name": "venomoth",
+        "Type1": "Bug",
+        "Type2": "Poison",
+        "Tags": [],
+        "FilePath": "Images/venomoth.jpg",
+        "MainColor": "None"
+    },
+    "27": {
+        "Name": "poliwrath",
+        "Type1": "Water",
+        "Type2": "Fighting",
+        "Tags": [],
+        "FilePath": "Images/poliwrath.jpg",
+        "MainColor": "None"
+    },
+    "28": {
         "Name": "bellsprout",
         "Type1": "Grass",
         "Type2": "Poison",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/bellsprout.png",
         "MainColor": "[0.         0.00502067 0.00502067 0.11296515]"
     },
-    "23": {
+    "29": {
         "Name": "weepinbell",
         "Type1": "Grass",
         "Type2": "Poison",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/weepinbell.png",
         "MainColor": "[186.65881397 199.77904143 134.37124289 239.72623883]"
     },
-    "24": {
+    "30": {
         "Name": "victreebel",
         "Type1": "Grass",
         "Type2": "Poison",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/victreebel.png",
         "MainColor": "[189.48697138 203.70824434 123.37249039 237.99273815]"
     },
-    "25": {
+    "31": {
         "Name": "tentacool",
         "Type1": "Water",
         "Type2": "Poison",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/tentacool.png",
-        "MainColor": "[154.74626866 163.68976546 179.92857143 228.84754797]"
-    },
-    "26": {
-        "Name": "tentacruel",
-        "Type1": "Water",
-        "Type2": "Poison",
-        "Tags": "",
-        "FilePath": "Images/tentacruel.png",
-        "MainColor": "[0.00415851 0.         0.00415851 0.24951076]"
-    },
-    "27": {
-        "Name": "slowbro",
-        "Type1": "Water",
-        "Type2": "Psychic",
-        "Tags": "",
-        "FilePath": "Images/slowbro.png",
-        "MainColor": "[0.08721087 0.03366034 0.06273063 0.64260643]"
-    },
-    "28": {
-        "Name": "magnemite",
-        "Type1": "Electric",
-        "Type2": "Steel",
-        "Tags": "",
-        "FilePath": "Images/magnemite.png",
-        "MainColor": "[0.00372344 0.00124115 0.         0.05585165]"
-    },
-    "29": {
-        "Name": "magneton",
-        "Type1": "Electric",
-        "Type2": "Steel",
-        "Tags": "",
-        "FilePath": "Images/magneton.png",
-        "MainColor": "[150.83763562 161.86232697 163.84287318 233.15375982]"
-    },
-    "30": {
-        "Name": "farfetchd",
-        "Type1": "Normal",
-        "Type2": "Flying",
-        "Tags": "",
-        "FilePath": "Images/farfetchd.png",
-        "MainColor": "[188.93775263 176.53920776 140.65642684 237.72514147]"
-    },
-    "31": {
-        "Name": "dodrio",
-        "Type1": "Normal",
-        "Type2": "Flying",
-        "Tags": "",
-        "FilePath": "Images/dodrio.png",
         "MainColor": "[0. 0. 0. 0.]"
     },
     "32": {
+        "Name": "tentacruel",
+        "Type1": "Water",
+        "Type2": "Poison",
+        "Tags": [],
+        "FilePath": "Images/tentacruel.png",
+        "MainColor": "[0.00415851 0.         0.00415851 0.24951076]"
+    },
+    "33": {
+        "Name": "geodude",
+        "Type1": "Rock",
+        "Type2": "Ground",
+        "Tags": [],
+        "FilePath": "Images/geodude.jpg",
+        "MainColor": "None"
+    },
+    "34": {
+        "Name": "graveler",
+        "Type1": "Rock",
+        "Type2": "Ground",
+        "Tags": [],
+        "FilePath": "Images/graveler.jpg",
+        "MainColor": "None"
+    },
+    "35": {
+        "Name": "golem",
+        "Type1": "Rock",
+        "Type2": "Ground",
+        "Tags": [],
+        "FilePath": "Images/golem.jpg",
+        "MainColor": "None"
+    },
+    "36": {
+        "Name": "slowpoke",
+        "Type1": "Water",
+        "Type2": "Psychic",
+        "Tags": [],
+        "FilePath": "Images/slowpoke.jpg",
+        "MainColor": "None"
+    },
+    "37": {
+        "Name": "slowbro",
+        "Type1": "Water",
+        "Type2": "Psychic",
+        "Tags": [],
+        "FilePath": "Images/slowbro.png",
+        "MainColor": "[206.3715415  184.39799331 189.57342657 244.99331104]"
+    },
+    "38": {
+        "Name": "magnemite",
+        "Type1": "Electric",
+        "Type2": "Steel",
+        "Tags": [],
+        "FilePath": "Images/magnemite.png",
+        "MainColor": "[156.3200569  167.47937411 169.97297297 228.93172119]"
+    },
+    "39": {
+        "Name": "magneton",
+        "Type1": "Electric",
+        "Type2": "Steel",
+        "Tags": [],
+        "FilePath": "Images/magneton.png",
+        "MainColor": "[150.83763562 161.86232697 163.84287318 233.15375982]"
+    },
+    "40": {
+        "Name": "farfetchd",
+        "Type1": "Normal",
+        "Type2": "Flying",
+        "Tags": [],
+        "FilePath": "Images/farfetchd.png",
+        "MainColor": "[0. 0. 0. 0.]"
+    },
+    "41": {
+        "Name": "doduo",
+        "Type1": "Normal",
+        "Type2": "Flying",
+        "Tags": [],
+        "FilePath": "Images/doduo.jpg",
+        "MainColor": "None"
+    },
+    "42": {
+        "Name": "dodrio",
+        "Type1": "Normal",
+        "Type2": "Flying",
+        "Tags": [],
+        "FilePath": "Images/dodrio.png",
+        "MainColor": "[0. 0. 0. 0.]"
+    },
+    "43": {
+        "Name": "dewgong",
+        "Type1": "Water",
+        "Type2": "Ice",
+        "Tags": [],
+        "FilePath": "Images/dewgong.jpg",
+        "MainColor": "None"
+    },
+    "44": {
+        "Name": "cloyster",
+        "Type1": "Water",
+        "Type2": "Ice",
+        "Tags": [],
+        "FilePath": "Images/cloyster.jpg",
+        "MainColor": "None"
+    },
+    "45": {
+        "Name": "gastly",
+        "Type1": "Ghost",
+        "Type2": "Poison",
+        "Tags": [],
+        "FilePath": "Images/gastly.jpg",
+        "MainColor": "None"
+    },
+    "46": {
+        "Name": "haunter",
+        "Type1": "Ghost",
+        "Type2": "Poison",
+        "Tags": [],
+        "FilePath": "Images/haunter.jpg",
+        "MainColor": "None"
+    },
+    "47": {
+        "Name": "gengar",
+        "Type1": "Ghost",
+        "Type2": "Poison",
+        "Tags": [],
+        "FilePath": "Images/gengar.jpg",
+        "MainColor": "None"
+    },
+    "48": {
+        "Name": "onix",
+        "Type1": "Rock",
+        "Type2": "Ground",
+        "Tags": [],
+        "FilePath": "Images/onix.jpg",
+        "MainColor": "None"
+    },
+    "49": {
+        "Name": "exeggcute",
+        "Type1": "Grass",
+        "Type2": "Psychic",
+        "Tags": [],
+        "FilePath": "Images/exeggcute.jpg",
+        "MainColor": "None"
+    },
+    "50": {
         "Name": "exeggutor",
         "Type1": "Grass",
         "Type2": "Psychic",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/exeggutor.png",
         "MainColor": "[161.30115713 175.8909866  142.98568819 234.21589525]"
     },
-    "33": {
+    "51": {
+        "Name": "rhyhorn",
+        "Type1": "Ground",
+        "Type2": "Rock",
+        "Tags": [],
+        "FilePath": "Images/rhyhorn.jpg",
+        "MainColor": "None"
+    },
+    "52": {
         "Name": "rhydon",
         "Type1": "Ground",
         "Type2": "Rock",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/rhydon.png",
         "MainColor": "[168.80209268 170.922571   176.12466368 244.98804185]"
     },
-    "34": {
+    "53": {
         "Name": "starmie",
         "Type1": "Water",
         "Type2": "Psychic",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/starmie.png",
         "MainColor": "[173.95242581 157.98634008 156.90673575 243.41309468]"
     },
-    "35": {
+    "54": {
         "Name": "mr-mime",
         "Type1": "Psychic",
         "Type2": "Fairy",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/mr-mime.png",
         "MainColor": "[162.33567354 150.67310224 165.48047389 232.9723563 ]"
     },
-    "36": {
+    "55": {
         "Name": "scyther",
         "Type1": "Bug",
         "Type2": "Flying",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/scyther.png",
-        "MainColor": "[175.2613531  196.47868397 157.65245598 211.58619092]"
+        "MainColor": "[0.00416599 0.00833197 0.00277732 0.08331972]"
     },
-    "37": {
+    "56": {
         "Name": "jynx",
         "Type1": "Ice",
         "Type2": "Psychic",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/jynx.png",
-        "MainColor": "[209.39378588 143.56568727 137.96859169 243.47146234]"
+        "MainColor": "[0.         0.         0.         0.02229216]"
     },
-    "38": {
+    "57": {
         "Name": "gyarados",
         "Type1": "Water",
         "Type2": "Flying",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/gyarados.png",
-        "MainColor": "[134.60756501 160.74096589 166.78149274 234.61263087]"
+        "MainColor": "[0. 0. 0. 0.]"
     },
-    "39": {
+    "58": {
         "Name": "lapras",
         "Type1": "Water",
         "Type2": "Ice",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/lapras.png",
-        "MainColor": "[0.00733517 0.00586814 0.0044011  0.06601657]"
+        "MainColor": "[157.4601707  194.6742532  206.32681366 243.27773826]"
     },
-    "40": {
+    "59": {
         "Name": "omanyte",
         "Type1": "Rock",
         "Type2": "Water",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/omanyte.png",
         "MainColor": "[0.0219039  0.0180385  0.02061543 0.48317417]"
     },
-    "41": {
+    "60": {
         "Name": "omastar",
         "Type1": "Rock",
         "Type2": "Water",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/omastar.png",
-        "MainColor": "[0.03042382 0.02350931 0.02074351 0.56007484]"
+        "MainColor": "[169.03037494 193.89416232 180.35453251 238.92785952]"
     },
-    "42": {
+    "61": {
         "Name": "kabuto",
         "Type1": "Rock",
         "Type2": "Water",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/kabuto.png",
         "MainColor": "[168.29860465 133.62883721 102.32744186 239.99255814]"
     },
-    "43": {
+    "62": {
         "Name": "kabutops",
         "Type1": "Rock",
         "Type2": "Water",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/kabutops.png",
-        "MainColor": "[0.         0.         0.         0.04055021]"
+        "MainColor": "[181.02687877 147.99232035 107.13987932 234.09270433]"
     },
-    "44": {
+    "63": {
         "Name": "aerodactyl",
         "Type1": "Rock",
         "Type2": "Flying",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/aerodactyl.png",
         "MainColor": "[175.87185056 164.11859253 181.80538662 230.33449175]"
     },
-    "45": {
+    "64": {
         "Name": "articuno",
         "Type1": "Ice",
         "Type2": "Flying",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/articuno.png",
         "MainColor": "[127.94757489 170.00784593 197.66726106 229.4818117 ]"
     },
-    "46": {
+    "65": {
         "Name": "zapdos",
         "Type1": "Electric",
         "Type2": "Flying",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/zapdos.png",
         "MainColor": "[0.05472884 0.06159061 0.0911045  2.67170966]"
     },
-    "47": {
+    "66": {
         "Name": "moltres",
         "Type1": "Fire",
         "Type2": "Flying",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/moltres.png",
         "MainColor": "[219.79196217 163.2134414   70.02330294 215.56872678]"
     },
-    "48": {
+    "67": {
         "Name": "dragonite",
         "Type1": "Dragon",
         "Type2": "Flying",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/dragonite.png",
         "MainColor": "[205.73794096 185.41540677 128.37473002 241.72066235]"
     },
-    "49": {
+    "68": {
+        "Name": "hoothoot",
+        "Type1": "Normal",
+        "Type2": "Flying",
+        "Tags": [],
+        "FilePath": "Images/hoothoot.png",
+        "MainColor": "[179.39959704 147.81867025 123.05104097 237.77165883]"
+    },
+    "69": {
         "Name": "noctowl",
         "Type1": "Normal",
         "Type2": "Flying",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/noctowl.png",
-        "MainColor": "[170.06819093 138.11672684 110.72001604 238.90012034]"
+        "MainColor": "[0. 0. 0. 0.]"
     },
-    "50": {
+    "70": {
+        "Name": "ledyba",
+        "Type1": "Bug",
+        "Type2": "Flying",
+        "Tags": [],
+        "FilePath": "Images/ledyba.png",
+        "MainColor": "[0.02227189 0.02211776 0.02473798 0.24368064]"
+    },
+    "71": {
         "Name": "ledian",
         "Type1": "Bug",
         "Type2": "Flying",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/ledian.png",
-        "MainColor": "[176.06151832 129.27421466 125.74410995 234.92931937]"
+        "MainColor": "[0. 0. 0. 0.]"
     },
-    "51": {
+    "72": {
         "Name": "spinarak",
         "Type1": "Bug",
         "Type2": "Poison",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/spinarak.png",
         "MainColor": "[0.         0.         0.00371856 0.16733503]"
     },
-    "52": {
+    "73": {
         "Name": "ariados",
         "Type1": "Bug",
         "Type2": "Poison",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/ariados.png",
         "MainColor": "[181.08468336 135.41237113 129.64506627 230.5640648 ]"
     },
-    "53": {
+    "74": {
         "Name": "crobat",
         "Type1": "Poison",
         "Type2": "Flying",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/crobat.png",
         "MainColor": "[0.01646959 0.01900338 0.02153716 0.00287162]"
     },
-    "54": {
+    "75": {
         "Name": "chinchou",
         "Type1": "Water",
         "Type2": "Electric",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/chinchou.png",
-        "MainColor": "[173.29375429 177.1379547  149.22786548 229.2841455 ]"
+        "MainColor": "[0.00131345 0.00394035 0.02626903 0.256123  ]"
     },
-    "55": {
+    "76": {
         "Name": "lanturn",
         "Type1": "Water",
         "Type2": "Electric",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/lanturn.png",
-        "MainColor": "[0.00675032 0.00135006 0.         0.08100381]"
+        "MainColor": "[168.94081858 175.6465708  169.26935841 238.14103982]"
     },
-    "56": {
+    "77": {
+        "Name": "igglybuff",
+        "Type1": "Normal",
+        "Type2": "Fairy",
+        "Tags": [],
+        "FilePath": "Images/igglybuff.jpg",
+        "MainColor": "None"
+    },
+    "78": {
+        "Name": "togetic",
+        "Type1": "Fairy",
+        "Type2": "Flying",
+        "Tags": [],
+        "FilePath": "Images/togetic.jpg",
+        "MainColor": "None"
+    },
+    "79": {
         "Name": "natu",
         "Type1": "Psychic",
         "Type2": "Flying",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/natu.png",
-        "MainColor": "[163.88193744 173.39858729  76.49848638 239.40665994]"
+        "MainColor": "[0. 0. 0. 0.]"
     },
-    "57": {
+    "80": {
         "Name": "xatu",
         "Type1": "Psychic",
         "Type2": "Flying",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/xatu.png",
         "MainColor": "[0.         0.         0.         0.30946602]"
     },
-    "58": {
+    "81": {
         "Name": "marill",
         "Type1": "Water",
         "Type2": "Fairy",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/marill.png",
-        "MainColor": "[122.48256228 163.63487544 190.63487544 242.113879  ]"
+        "MainColor": "[0.         0.         0.         0.01962293]"
     },
-    "59": {
+    "82": {
         "Name": "azumarill",
         "Type1": "Water",
         "Type2": "Fairy",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/azumarill.png",
-        "MainColor": "[ 93.35781476 150.29667149 184.0195369  244.45188133]"
+        "MainColor": "[0.         0.         0.         0.04382949]"
     },
-    "60": {
+    "83": {
         "Name": "hoppip",
         "Type1": "Grass",
         "Type2": "Flying",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/hoppip.png",
-        "MainColor": "[186.49414062 143.02148438 139.18554688 225.48242188]"
+        "MainColor": "[185.04844961 142.12693798 138.15600775 225.71124031]"
     },
-    "61": {
-        "Name": "skiploom",
-        "Type1": "Grass",
-        "Type2": "Flying",
-        "Tags": "",
-        "FilePath": "Images/skiploom.png",
-        "MainColor": "[138.65064836 185.14111365  63.59649123 239.34858886]"
-    },
-    "62": {
+    "84": {
         "Name": "jumpluff",
         "Type1": "Grass",
         "Type2": "Flying",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/jumpluff.png",
         "MainColor": "[0. 0. 0. 0.]"
     },
-    "63": {
+    "85": {
         "Name": "yanma",
         "Type1": "Bug",
         "Type2": "Flying",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/yanma.png",
-        "MainColor": "[0.0665643  0.05090211 0.09136276 0.84184261]"
+        "MainColor": "[187.07272727 174.26618182 151.58909091 144.81527273]"
     },
-    "64": {
+    "86": {
         "Name": "wooper",
         "Type1": "Water",
         "Type2": "Ground",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/wooper.png",
-        "MainColor": "[0.0025587  0.0051174  0.0153522  0.09595123]"
+        "MainColor": "[157.70233813 181.55755396 201.33723022 232.00719424]"
     },
-    "65": {
+    "87": {
+        "Name": "quagsire",
+        "Type1": "Water",
+        "Type2": "Ground",
+        "Tags": [],
+        "FilePath": "Images/quagsire.jpg",
+        "MainColor": "None"
+    },
+    "88": {
         "Name": "murkrow",
         "Type1": "Dark",
         "Type2": "Flying",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/murkrow.png",
         "MainColor": "[ 64.82592593  78.69333333  93.76518519 239.37259259]"
     },
-    "66": {
+    "89": {
         "Name": "slowking",
         "Type1": "Water",
         "Type2": "Psychic",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/slowking.png",
         "MainColor": "[212.59297374 185.46096522 184.04506742 244.69623847]"
     },
-    "67": {
+    "90": {
         "Name": "girafarig",
         "Type1": "Normal",
         "Type2": "Psychic",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/girafarig.png",
-        "MainColor": "[0. 0. 0. 0.]"
+        "MainColor": "[171.76807713 136.97054097  65.34386717 235.7873594 ]"
     },
-    "68": {
+    "91": {
         "Name": "forretress",
         "Type1": "Bug",
         "Type2": "Steel",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/forretress.png",
-        "MainColor": "[0.06498933 0.18287696 0.1571835  3.15122688]"
+        "MainColor": "[0.00303788 0.05164403 0.04860615 1.89108292]"
     },
-    "69": {
+    "92": {
         "Name": "gligar",
         "Type1": "Ground",
         "Type2": "Flying",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/gligar.png",
-        "MainColor": "[183.8479404  135.60122699 174.74934268 237.94785276]"
+        "MainColor": "[0.00140287 0.         0.         0.02104308]"
     },
-    "70": {
+    "93": {
+        "Name": "steelix",
+        "Type1": "Steel",
+        "Type2": "Ground",
+        "Tags": [],
+        "FilePath": "Images/steelix.jpg",
+        "MainColor": "None"
+    },
+    "94": {
         "Name": "qwilfish",
         "Type1": "Water",
         "Type2": "Poison",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/qwilfish.png",
         "MainColor": "[0. 0. 0. 0.]"
     },
-    "71": {
+    "95": {
         "Name": "scizor",
         "Type1": "Bug",
         "Type2": "Steel",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/scizor.png",
-        "MainColor": "[185.874019   110.51879389 109.30689798 218.72490706]"
-    },
-    "72": {
-        "Name": "shuckle",
-        "Type1": "Bug",
-        "Type2": "Rock",
-        "Tags": "",
-        "FilePath": "Images/shuckle.png",
-        "MainColor": "[0. 0. 0. 0.]"
-    },
-    "73": {
-        "Name": "heracross",
-        "Type1": "Bug",
-        "Type2": "Fighting",
-        "Tags": "",
-        "FilePath": "Images/heracross.png",
-        "MainColor": "[100.76886977 141.27102073 168.76300352 236.6370747 ]"
-    },
-    "74": {
-        "Name": "sneasel",
-        "Type1": "Dark",
-        "Type2": "Ice",
-        "Tags": "",
-        "FilePath": "Images/sneasel.png",
-        "MainColor": "[117.95681063 123.22392027 136.67109635 235.92159468]"
-    },
-    "75": {
-        "Name": "magcargo",
-        "Type1": "Fire",
-        "Type2": "Rock",
-        "Tags": "",
-        "FilePath": "Images/magcargo.png",
-        "MainColor": "[193.04235463 109.84996411  88.96518306 246.54271357]"
-    },
-    "76": {
-        "Name": "delibird",
-        "Type1": "Ice",
-        "Type2": "Flying",
-        "Tags": "",
-        "FilePath": "Images/delibird.png",
-        "MainColor": "[199.34620887 151.54220315 144.89794945 242.49928469]"
-    },
-    "77": {
-        "Name": "mantine",
-        "Type1": "Water",
-        "Type2": "Flying",
-        "Tags": "",
-        "FilePath": "Images/mantine.png",
-        "MainColor": "[146.69458858 152.74128984 168.94773907 237.26908821]"
-    },
-    "78": {
-        "Name": "kingdra",
-        "Type1": "Water",
-        "Type2": "Dragon",
-        "Tags": "",
-        "FilePath": "Images/kingdra.png",
-        "MainColor": "[126.21134663 171.67206983 185.58977556 233.09289277]"
-    },
-    "79": {
-        "Name": "smoochum",
-        "Type1": "Ice",
-        "Type2": "Psychic",
-        "Tags": "",
-        "FilePath": "Images/smoochum.png",
-        "MainColor": "[0.00795074 0.0119261  0.00927586 0.27827578]"
-    },
-    "80": {
-        "Name": "tyranitar",
-        "Type1": "Rock",
-        "Type2": "Dark",
-        "Tags": "",
-        "FilePath": "Images/tyranitar.png",
-        "MainColor": "[0.00164617 0.00164617 0.01481553 0.56792873]"
-    },
-    "81": {
-        "Name": "lugia",
-        "Type1": "Psychic",
-        "Type2": "Flying",
-        "Tags": "",
-        "FilePath": "Images/lugia.png",
-        "MainColor": "[0.20884019 0.24496239 0.47692451 1.56597641]"
-    },
-    "82": {
-        "Name": "ho-oh",
-        "Type1": "Fire",
-        "Type2": "Flying",
-        "Tags": "",
-        "FilePath": "Images/ho-oh.png",
-        "MainColor": "[0. 0. 0. 0.]"
-    },
-    "83": {
-        "Name": "celebi",
-        "Type1": "Psychic",
-        "Type2": "Grass",
-        "Tags": "",
-        "FilePath": "Images/celebi.png",
-        "MainColor": "[194.51975417 207.21334504 176.21071115 227.62686567]"
-    },
-    "84": {
-        "Name": "combusken",
-        "Type1": "Fire",
-        "Type2": "Fighting",
-        "Tags": "",
-        "FilePath": "Images/combusken.png",
-        "MainColor": "[0.00685263 0.0054821  0.         0.12334731]"
-    },
-    "85": {
-        "Name": "blaziken",
-        "Type1": "Fire",
-        "Type2": "Fighting",
-        "Tags": "",
-        "FilePath": "Images/blaziken.png",
-        "MainColor": "[0. 0. 0. 0.]"
-    },
-    "86": {
-        "Name": "marshtomp",
-        "Type1": "Water",
-        "Type2": "Ground",
-        "Tags": "",
-        "FilePath": "Images/marshtomp.png",
-        "MainColor": "[0.00275571 0.00413357 0.00413357 0.06200357]"
-    },
-    "87": {
-        "Name": "swampert",
-        "Type1": "Water",
-        "Type2": "Ground",
-        "Tags": "",
-        "FilePath": "Images/swampert.png",
-        "MainColor": "[0.        0.        0.        0.0241363]"
-    },
-    "88": {
-        "Name": "beautifly",
-        "Type1": "Bug",
-        "Type2": "Flying",
-        "Tags": "",
-        "FilePath": "Images/beautifly.png",
-        "MainColor": "[0. 0. 0. 0.]"
-    },
-    "89": {
-        "Name": "dustox",
-        "Type1": "Bug",
-        "Type2": "Poison",
-        "Tags": "",
-        "FilePath": "Images/dustox.png",
-        "MainColor": "[153.65101184 153.17029401 105.16647575 244.11454754]"
-    },
-    "90": {
-        "Name": "lotad",
-        "Type1": "Water",
-        "Type2": "Grass",
-        "Tags": "",
-        "FilePath": "Images/lotad.png",
-        "MainColor": "[124.71920758 162.6709733  122.34711456 242.45133506]"
-    },
-    "91": {
-        "Name": "lombre",
-        "Type1": "Water",
-        "Type2": "Grass",
-        "Tags": "",
-        "FilePath": "Images/lombre.png",
-        "MainColor": "[137.17319588 169.59175258 112.94896907 241.15463918]"
-    },
-    "92": {
-        "Name": "ludicolo",
-        "Type1": "Water",
-        "Type2": "Grass",
-        "Tags": "",
-        "FilePath": "Images/ludicolo.png",
-        "MainColor": "[0.         0.00152754 0.         0.06873933]"
-    },
-    "93": {
-        "Name": "nuzleaf",
-        "Type1": "Grass",
-        "Type2": "Dark",
-        "Tags": "",
-        "FilePath": "Images/nuzleaf.png",
-        "MainColor": "[0. 0. 0. 0.]"
-    },
-    "94": {
-        "Name": "shiftry",
-        "Type1": "Grass",
-        "Type2": "Dark",
-        "Tags": "",
-        "FilePath": "Images/shiftry.png",
-        "MainColor": "[148.96133005 154.4544335  131.02044335 240.06847291]"
-    },
-    "95": {
-        "Name": "taillow",
-        "Type1": "Normal",
-        "Type2": "Flying",
-        "Tags": "",
-        "FilePath": "Images/taillow.png",
         "MainColor": "[0. 0. 0. 0.]"
     },
     "96": {
-        "Name": "swellow",
-        "Type1": "Normal",
-        "Type2": "Flying",
-        "Tags": "",
-        "FilePath": "Images/swellow.png",
-        "MainColor": "[0.01797057 0.01913246 0.04058869 0.04740511]"
+        "Name": "shuckle",
+        "Type1": "Bug",
+        "Type2": "Rock",
+        "Tags": [],
+        "FilePath": "Images/shuckle.png",
+        "MainColor": "[215.94069069 168.88213213  91.56606607 238.43393393]"
     },
     "97": {
-        "Name": "wingull",
-        "Type1": "Water",
-        "Type2": "Flying",
-        "Tags": "",
-        "FilePath": "Images/wingull.png",
-        "MainColor": "[0.0278206  0.02914189 0.03024297 0.06613815]"
+        "Name": "heracross",
+        "Type1": "Bug",
+        "Type2": "Fighting",
+        "Tags": [],
+        "FilePath": "Images/heracross.png",
+        "MainColor": "[100.76886977 141.27102073 168.76300352 236.6370747 ]"
     },
     "98": {
-        "Name": "pelipper",
-        "Type1": "Water",
-        "Type2": "Flying",
-        "Tags": "",
-        "FilePath": "Images/pelipper.png",
-        "MainColor": "[0.01411843 0.01270659 0.01129474 0.19059879]"
+        "Name": "sneasel",
+        "Type1": "Dark",
+        "Type2": "Ice",
+        "Tags": [],
+        "FilePath": "Images/sneasel.png",
+        "MainColor": "[117.95681063 123.22392027 136.67109635 235.92159468]"
     },
     "99": {
-        "Name": "ralts",
-        "Type1": "Psychic",
-        "Type2": "Fairy",
-        "Tags": "",
-        "FilePath": "Images/ralts.png",
-        "MainColor": "[0. 0. 0. 0.]"
+        "Name": "magcargo",
+        "Type1": "Fire",
+        "Type2": "Rock",
+        "Tags": [],
+        "FilePath": "Images/magcargo.png",
+        "MainColor": "[193.04235463 109.84996411  88.96518306 246.54271357]"
     },
     "100": {
-        "Name": "kirlia",
-        "Type1": "Psychic",
-        "Type2": "Fairy",
-        "Tags": "",
-        "FilePath": "Images/kirlia.png",
-        "MainColor": "[164.08578053 181.5935085  158.6576507  227.71329212]"
+        "Name": "swinub",
+        "Type1": "Ice",
+        "Type2": "Ground",
+        "Tags": [],
+        "FilePath": "Images/swinub.jpg",
+        "MainColor": "None"
     },
     "101": {
-        "Name": "gardevoir",
-        "Type1": "Psychic",
-        "Type2": "Fairy",
-        "Tags": "",
-        "FilePath": "Images/gardevoir.png",
-        "MainColor": "[203.1182266  215.15804598 201.44868637 236.96715928]"
+        "Name": "piloswine",
+        "Type1": "Ice",
+        "Type2": "Ground",
+        "Tags": [],
+        "FilePath": "Images/piloswine.jpg",
+        "MainColor": "None"
     },
     "102": {
-        "Name": "surskit",
-        "Type1": "Bug",
-        "Type2": "Water",
-        "Tags": "",
-        "FilePath": "Images/surskit.png",
-        "MainColor": "[142.18417266 172.85323741 182.0057554  212.04748201]"
+        "Name": "corsola",
+        "Type1": "Water",
+        "Type2": "Rock",
+        "Tags": [],
+        "FilePath": "Images/corsola.jpg",
+        "MainColor": "None"
     },
     "103": {
-        "Name": "masquerain",
-        "Type1": "Bug",
+        "Name": "delibird",
+        "Type1": "Ice",
         "Type2": "Flying",
-        "Tags": "",
-        "FilePath": "Images/masquerain.png",
-        "MainColor": "[0.        0.        0.        0.0200819]"
+        "Tags": [],
+        "FilePath": "Images/delibird.png",
+        "MainColor": "[199.34620887 151.54220315 144.89794945 242.49928469]"
     },
     "104": {
-        "Name": "breloom",
-        "Type1": "Grass",
-        "Type2": "Fighting",
-        "Tags": "",
-        "FilePath": "Images/breloom.png",
-        "MainColor": "[161.74588118 161.78881677 135.41337993 238.40738892]"
+        "Name": "mantine",
+        "Type1": "Water",
+        "Type2": "Flying",
+        "Tags": [],
+        "FilePath": "Images/mantine.png",
+        "MainColor": "[0.00145274 0.         0.         0.17432917]"
     },
     "105": {
-        "Name": "ninjask",
-        "Type1": "Bug",
+        "Name": "skarmory",
+        "Type1": "Steel",
         "Type2": "Flying",
-        "Tags": "",
-        "FilePath": "Images/ninjask.png",
-        "MainColor": "[0.00132989 0.00398967 0.0159587  0.51865759]"
+        "Tags": [],
+        "FilePath": "Images/skarmory.jpg",
+        "MainColor": "None"
     },
     "106": {
-        "Name": "azurill",
-        "Type1": "Normal",
-        "Type2": "Fairy",
-        "Tags": "",
-        "FilePath": "Images/azurill.png",
-        "MainColor": "[ 64.85100287 140.36103152 183.05539637 240.48424069]"
+        "Name": "houndour",
+        "Type1": "Dark",
+        "Type2": "Fire",
+        "Tags": [],
+        "FilePath": "Images/houndour.jpg",
+        "MainColor": "None"
     },
     "107": {
-        "Name": "mawile",
-        "Type1": "Steel",
-        "Type2": "Fairy",
-        "Tags": "",
-        "FilePath": "Images/mawile.png",
-        "MainColor": "[125.95733875 123.31234129 106.61503301 235.85881158]"
+        "Name": "houndoom",
+        "Type1": "Dark",
+        "Type2": "Fire",
+        "Tags": [],
+        "FilePath": "Images/houndoom.jpg",
+        "MainColor": "None"
     },
     "108": {
-        "Name": "medicham",
-        "Type1": "Fighting",
-        "Type2": "Psychic",
-        "Tags": "",
-        "FilePath": "Images/medicham.png",
-        "MainColor": "[0.         0.00273312 0.00136656 0.04099678]"
+        "Name": "kingdra",
+        "Type1": "Water",
+        "Type2": "Dragon",
+        "Tags": [],
+        "FilePath": "Images/kingdra.png",
+        "MainColor": "[126.21134663 171.67206983 185.58977556 233.09289277]"
     },
     "109": {
-        "Name": "roselia",
-        "Type1": "Grass",
-        "Type2": "Poison",
-        "Tags": "",
-        "FilePath": "Images/roselia.png",
-        "MainColor": "[143.67       152.51666667 136.54066667 234.532     ]"
+        "Name": "smoochum",
+        "Type1": "Ice",
+        "Type2": "Psychic",
+        "Tags": [],
+        "FilePath": "Images/smoochum.png",
+        "MainColor": "[0.00795074 0.0119261  0.00927586 0.27827578]"
     },
     "110": {
-        "Name": "carvanha",
-        "Type1": "Water",
-        "Type2": "Dark",
-        "Tags": "",
-        "FilePath": "Images/carvanha.png",
-        "MainColor": "[159.05827937 139.07493062 125.77890842 233.83256244]"
+        "Name": "larvitar",
+        "Type1": "Rock",
+        "Type2": "Ground",
+        "Tags": [],
+        "FilePath": "Images/larvitar.jpg",
+        "MainColor": "None"
     },
     "111": {
-        "Name": "sharpedo",
-        "Type1": "Water",
-        "Type2": "Dark",
-        "Tags": "",
-        "FilePath": "Images/sharpedo.png",
-        "MainColor": "[ 90.22793747 139.12102874 168.68935956 239.63741805]"
+        "Name": "pupitar",
+        "Type1": "Rock",
+        "Type2": "Ground",
+        "Tags": [],
+        "FilePath": "Images/pupitar.jpg",
+        "MainColor": "None"
     },
     "112": {
-        "Name": "numel",
-        "Type1": "Fire",
-        "Type2": "Ground",
-        "Tags": "",
-        "FilePath": "Images/numel.png",
-        "MainColor": "[220.28653625 207.66168009 155.69850403 243.70253165]"
+        "Name": "tyranitar",
+        "Type1": "Rock",
+        "Type2": "Dark",
+        "Tags": [],
+        "FilePath": "Images/tyranitar.png",
+        "MainColor": "[166.65381782 181.22612325 137.59440216 243.38423766]"
     },
     "113": {
-        "Name": "camerupt",
-        "Type1": "Fire",
-        "Type2": "Ground",
-        "Tags": "",
-        "FilePath": "Images/camerupt.png",
-        "MainColor": "[0.02660816 0.02390066 0.02390066 0.16665111]"
+        "Name": "lugia",
+        "Type1": "Psychic",
+        "Type2": "Flying",
+        "Tags": [],
+        "FilePath": "Images/lugia.png",
+        "MainColor": "[200.0267144  202.83282842 216.01569815 230.23271826]"
     },
     "114": {
-        "Name": "vibrava",
-        "Type1": "Ground",
-        "Type2": "Dragon",
-        "Tags": "",
-        "FilePath": "Images/vibrava.png",
-        "MainColor": "[0. 0. 0. 0.]"
+        "Name": "ho-oh",
+        "Type1": "Fire",
+        "Type2": "Flying",
+        "Tags": [],
+        "FilePath": "Images/ho-oh.png",
+        "MainColor": "[192.20981508 122.32053106  79.68847795 233.25225225]"
     },
     "115": {
-        "Name": "flygon",
-        "Type1": "Ground",
-        "Type2": "Dragon",
-        "Tags": "",
-        "FilePath": "Images/flygon.png",
-        "MainColor": "[167.85170068 171.04591837 137.32653061 225.01870748]"
+        "Name": "celebi",
+        "Type1": "Psychic",
+        "Type2": "Grass",
+        "Tags": [],
+        "FilePath": "Images/celebi.png",
+        "MainColor": "[0.04358646 0.04615037 0.03974059 0.71148481]"
     },
     "116": {
-        "Name": "cacturne",
-        "Type1": "Grass",
-        "Type2": "Dark",
-        "Tags": "",
-        "FilePath": "Images/cacturne.png",
-        "MainColor": "[0.         0.         0.00146843 0.04405286]"
+        "Name": "combusken",
+        "Type1": "Fire",
+        "Type2": "Fighting",
+        "Tags": [],
+        "FilePath": "Images/combusken.png",
+        "MainColor": "[203.16783567 170.76653307 123.37825651 234.61873747]"
     },
     "117": {
-        "Name": "swablu",
-        "Type1": "Normal",
-        "Type2": "Flying",
-        "Tags": "",
-        "FilePath": "Images/swablu.png",
-        "MainColor": "[0.01730483 0.04126537 0.0585702  0.25957247]"
+        "Name": "blaziken",
+        "Type1": "Fire",
+        "Type2": "Fighting",
+        "Tags": [],
+        "FilePath": "Images/blaziken.png",
+        "MainColor": "[207.959849   155.73610158 119.37886067 234.15545642]"
     },
     "118": {
-        "Name": "altaria",
-        "Type1": "Dragon",
-        "Type2": "Flying",
-        "Tags": "",
-        "FilePath": "Images/altaria.png",
-        "MainColor": "[215.34720677 227.27687514 234.97729802 243.07010906]"
+        "Name": "marshtomp",
+        "Type1": "Water",
+        "Type2": "Ground",
+        "Tags": [],
+        "FilePath": "Images/marshtomp.png",
+        "MainColor": "[0.00275571 0.00413357 0.00413357 0.06200357]"
     },
     "119": {
-        "Name": "solrock",
-        "Type1": "Rock",
-        "Type2": "Psychic",
-        "Tags": "",
-        "FilePath": "Images/solrock.png",
-        "MainColor": "[204.50078247 162.02816901 100.82055295 236.67866458]"
+        "Name": "swampert",
+        "Type1": "Water",
+        "Type2": "Ground",
+        "Tags": [],
+        "FilePath": "Images/swampert.png",
+        "MainColor": "[135.6273794  167.62242503 178.72933507 242.25554107]"
     },
     "120": {
-        "Name": "barboach",
-        "Type1": "Water",
-        "Type2": "Ground",
-        "Tags": "",
-        "FilePath": "Images/barboach.png",
-        "MainColor": "[0.00128022 0.00128022 0.00128022 0.01920325]"
+        "Name": "beautifly",
+        "Type1": "Bug",
+        "Type2": "Flying",
+        "Tags": [],
+        "FilePath": "Images/beautifly.png",
+        "MainColor": "[151.12707182 140.2558011  119.04530387 236.16850829]"
     },
     "121": {
-        "Name": "whiscash",
-        "Type1": "Water",
-        "Type2": "Ground",
-        "Tags": "",
-        "FilePath": "Images/whiscash.png",
+        "Name": "dustox",
+        "Type1": "Bug",
+        "Type2": "Poison",
+        "Tags": [],
+        "FilePath": "Images/dustox.png",
         "MainColor": "[0. 0. 0. 0.]"
     },
     "122": {
-        "Name": "crawdaunt",
+        "Name": "lotad",
         "Type1": "Water",
-        "Type2": "Dark",
-        "Tags": "",
-        "FilePath": "Images/crawdaunt.png",
-        "MainColor": "[0. 0. 0. 0.]"
+        "Type2": "Grass",
+        "Tags": [],
+        "FilePath": "Images/lotad.png",
+        "MainColor": "[124.71920758 162.6709733  122.34711456 242.45133506]"
     },
     "123": {
-        "Name": "lileep",
-        "Type1": "Rock",
+        "Name": "lombre",
+        "Type1": "Water",
         "Type2": "Grass",
-        "Tags": "",
-        "FilePath": "Images/lileep.png",
-        "MainColor": "[172.65862944 149.87880711 157.40482234 234.71002538]"
+        "Tags": [],
+        "FilePath": "Images/lombre.png",
+        "MainColor": "[0. 0. 0. 0.]"
     },
     "124": {
-        "Name": "cradily",
-        "Type1": "Rock",
+        "Name": "ludicolo",
+        "Type1": "Water",
         "Type2": "Grass",
-        "Tags": "",
-        "FilePath": "Images/cradily.png",
-        "MainColor": "[184.94770459 175.82315369 152.22075848 237.2738523 ]"
+        "Tags": [],
+        "FilePath": "Images/ludicolo.png",
+        "MainColor": "[172.35371446 181.99480281 132.55090186 243.58177927]"
     },
     "125": {
-        "Name": "anorith",
-        "Type1": "Rock",
-        "Type2": "Bug",
-        "Tags": "",
-        "FilePath": "Images/anorith.png",
-        "MainColor": "[139.89777195 142.34469201 135.19266055 222.60419397]"
+        "Name": "nuzleaf",
+        "Type1": "Grass",
+        "Type2": "Dark",
+        "Tags": [],
+        "FilePath": "Images/nuzleaf.png",
+        "MainColor": "[0. 0. 0. 0.]"
     },
     "126": {
-        "Name": "armaldo",
-        "Type1": "Rock",
-        "Type2": "Bug",
-        "Tags": "",
-        "FilePath": "Images/armaldo.png",
-        "MainColor": "[0. 0. 0. 0.]"
+        "Name": "shiftry",
+        "Type1": "Grass",
+        "Type2": "Dark",
+        "Tags": [],
+        "FilePath": "Images/shiftry.png",
+        "MainColor": "[148.96133005 154.4544335  131.02044335 240.06847291]"
     },
     "127": {
-        "Name": "tropius",
-        "Type1": "Grass",
+        "Name": "taillow",
+        "Type1": "Normal",
         "Type2": "Flying",
-        "Tags": "",
-        "FilePath": "Images/tropius.png",
-        "MainColor": "[0.04197049 0.10022045 0.05553671 0.0259454 ]"
+        "Tags": [],
+        "FilePath": "Images/taillow.png",
+        "MainColor": "[139.58325991 114.76035242 126.19559471 237.67048458]"
     },
     "128": {
-        "Name": "spheal",
-        "Type1": "Ice",
-        "Type2": "Water",
-        "Tags": "",
-        "FilePath": "Images/spheal.png",
-        "MainColor": "[0.00129425 0.00129425 0.0025885  0.03882756]"
+        "Name": "swellow",
+        "Type1": "Normal",
+        "Type2": "Flying",
+        "Tags": [],
+        "FilePath": "Images/swellow.png",
+        "MainColor": "[0.01797057 0.01913246 0.04058869 0.04740511]"
     },
     "129": {
-        "Name": "sealeo",
-        "Type1": "Ice",
-        "Type2": "Water",
-        "Tags": "",
-        "FilePath": "Images/sealeo.png",
-        "MainColor": "[164.95454545 197.3705074  206.31183932 242.62737844]"
+        "Name": "wingull",
+        "Type1": "Water",
+        "Type2": "Flying",
+        "Tags": [],
+        "FilePath": "Images/wingull.png",
+        "MainColor": "[0.0278206  0.02914189 0.03024297 0.06613815]"
     },
     "130": {
-        "Name": "walrein",
-        "Type1": "Ice",
-        "Type2": "Water",
-        "Tags": "",
-        "FilePath": "Images/walrein.png",
-        "MainColor": "[0. 0. 0. 0.]"
+        "Name": "pelipper",
+        "Type1": "Water",
+        "Type2": "Flying",
+        "Tags": [],
+        "FilePath": "Images/pelipper.png",
+        "MainColor": "[211.53963544 207.30309453 163.93047902 242.92920729]"
     },
     "131": {
-        "Name": "salamence",
-        "Type1": "Dragon",
-        "Type2": "Flying",
-        "Tags": "",
-        "FilePath": "Images/salamence.png",
-        "MainColor": "[0.13830309 0.05139774 0.0610103  0.09504659]"
+        "Name": "ralts",
+        "Type1": "Psychic",
+        "Type2": "Fairy",
+        "Tags": [],
+        "FilePath": "Images/ralts.png",
+        "MainColor": "[0. 0. 0. 0.]"
     },
     "132": {
-        "Name": "metang",
-        "Type1": "Steel",
-        "Type2": "Psychic",
-        "Tags": "",
-        "FilePath": "Images/metang.png",
+        "Name": "kirlia",
+        "Type1": "Psychic",
+        "Type2": "Fairy",
+        "Tags": [],
+        "FilePath": "Images/kirlia.png",
         "MainColor": "[0. 0. 0. 0.]"
     },
     "133": {
-        "Name": "metagross",
-        "Type1": "Steel",
-        "Type2": "Psychic",
-        "Tags": "",
-        "FilePath": "Images/metagross.png",
-        "MainColor": "[100.3452826  142.         157.53221905 232.63866285]"
+        "Name": "gardevoir",
+        "Type1": "Psychic",
+        "Type2": "Fairy",
+        "Tags": [],
+        "FilePath": "Images/gardevoir.png",
+        "MainColor": "[0.02983952 0.04112337 0.02841859 0.19040455]"
     },
     "134": {
-        "Name": "latias",
-        "Type1": "Dragon",
-        "Type2": "Psychic",
-        "Tags": "",
-        "FilePath": "Images/latias.png",
-        "MainColor": "[180.45868263 140.58862275 150.54371257 234.07065868]"
+        "Name": "surskit",
+        "Type1": "Bug",
+        "Type2": "Water",
+        "Tags": [],
+        "FilePath": "Images/surskit.jpg",
+        "MainColor": "None"
     },
     "135": {
-        "Name": "latios",
-        "Type1": "Dragon",
-        "Type2": "Psychic",
-        "Tags": "",
-        "FilePath": "Images/latios.png",
-        "MainColor": "[0. 0. 0. 0.]"
+        "Name": "masquerain",
+        "Type1": "Bug",
+        "Type2": "Flying",
+        "Tags": [],
+        "FilePath": "Images/masquerain.png",
+        "MainColor": "[212.52291422 187.39894242 177.89835488 222.34841363]"
     },
     "136": {
-        "Name": "rayquaza",
-        "Type1": "Dragon",
-        "Type2": "Flying",
-        "Tags": "",
-        "FilePath": "Images/rayquaza.png",
-        "MainColor": "[108.67394504 144.97080471 114.87168793 234.5966634 ]"
+        "Name": "breloom",
+        "Type1": "Grass",
+        "Type2": "Fighting",
+        "Tags": [],
+        "FilePath": "Images/breloom.png",
+        "MainColor": "[161.74588118 161.78881677 135.41337993 238.40738892]"
     },
     "137": {
-        "Name": "jirachi",
-        "Type1": "Steel",
-        "Type2": "Psychic",
-        "Tags": "",
-        "FilePath": "Images/jirachi.png",
-        "MainColor": "[0.01867252 0.01867252 0.01733877 0.24007532]"
+        "Name": "nincada",
+        "Type1": "Bug",
+        "Type2": "Ground",
+        "Tags": [],
+        "FilePath": "Images/nincada.jpg",
+        "MainColor": "None"
     },
     "138": {
-        "Name": "torterra",
-        "Type1": "Grass",
-        "Type2": "Ground",
-        "Tags": "",
-        "FilePath": "Images/torterra.png",
-        "MainColor": "[103.50703433 134.33558432  88.025136   242.60157569]"
+        "Name": "ninjask",
+        "Type1": "Bug",
+        "Type2": "Flying",
+        "Tags": [],
+        "FilePath": "Images/ninjask.png",
+        "MainColor": "[0.00132989 0.00398967 0.0159587  0.51865759]"
     },
     "139": {
-        "Name": "monferno",
-        "Type1": "Fire",
-        "Type2": "Fighting",
-        "Tags": "",
-        "FilePath": "Images/monferno.png",
-        "MainColor": "[0.         0.         0.         0.08142412]"
+        "Name": "shedinja",
+        "Type1": "Bug",
+        "Type2": "Ghost",
+        "Tags": [],
+        "FilePath": "Images/shedinja.jpg",
+        "MainColor": "None"
     },
     "140": {
-        "Name": "infernape",
-        "Type1": "Fire",
-        "Type2": "Fighting",
-        "Tags": "",
-        "FilePath": "Images/infernape.png",
-        "MainColor": "[0. 0. 0. 0.]"
+        "Name": "azurill",
+        "Type1": "Normal",
+        "Type2": "Fairy",
+        "Tags": [],
+        "FilePath": "Images/azurill.png",
+        "MainColor": "[ 64.85100287 140.36103152 183.05539637 240.48424069]"
     },
     "141": {
-        "Name": "empoleon",
-        "Type1": "Water",
-        "Type2": "Steel",
-        "Tags": "",
-        "FilePath": "Images/empoleon.png",
-        "MainColor": "[0. 0. 0. 0.]"
+        "Name": "sableye",
+        "Type1": "Dark",
+        "Type2": "Ghost",
+        "Tags": [],
+        "FilePath": "Images/sableye.jpg",
+        "MainColor": "None"
     },
     "142": {
-        "Name": "staravia",
-        "Type1": "Normal",
-        "Type2": "Flying",
-        "Tags": "",
-        "FilePath": "Images/staravia.png",
-        "MainColor": "[0. 0. 0. 0.]"
+        "Name": "mawile",
+        "Type1": "Steel",
+        "Type2": "Fairy",
+        "Tags": [],
+        "FilePath": "Images/mawile.png",
+        "MainColor": "[125.95733875 123.31234129 106.61503301 235.85881158]"
     },
     "143": {
-        "Name": "staraptor",
-        "Type1": "Normal",
-        "Type2": "Flying",
-        "Tags": "",
-        "FilePath": "Images/staraptor.png",
-        "MainColor": "[0.48389919 0.46141057 0.35675534 0.41652083]"
+        "Name": "aron",
+        "Type1": "Steel",
+        "Type2": "Rock",
+        "Tags": [],
+        "FilePath": "Images/aron.jpg",
+        "MainColor": "None"
     },
     "144": {
-        "Name": "bibarel",
-        "Type1": "Normal",
-        "Type2": "Water",
-        "Tags": "",
-        "FilePath": "Images/bibarel.png",
-        "MainColor": "[164.73440066 135.15599343  87.94252874 245.41133005]"
+        "Name": "lairon",
+        "Type1": "Steel",
+        "Type2": "Rock",
+        "Tags": [],
+        "FilePath": "Images/lairon.jpg",
+        "MainColor": "None"
     },
     "145": {
-        "Name": "budew",
-        "Type1": "Grass",
-        "Type2": "Poison",
-        "Tags": "",
-        "FilePath": "Images/budew.png",
-        "MainColor": "[144.35455543 175.75631175  86.2349067  241.56421515]"
+        "Name": "aggron",
+        "Type1": "Steel",
+        "Type2": "Rock",
+        "Tags": [],
+        "FilePath": "Images/aggron.jpg",
+        "MainColor": "None"
     },
     "146": {
-        "Name": "roserade",
-        "Type1": "Grass",
-        "Type2": "Poison",
-        "Tags": "",
-        "FilePath": "Images/roserade.png",
-        "MainColor": "[0.         0.00135135 0.00135135 0.04054054]"
+        "Name": "meditite",
+        "Type1": "Fighting",
+        "Type2": "Psychic",
+        "Tags": [],
+        "FilePath": "Images/meditite.jpg",
+        "MainColor": "None"
     },
     "147": {
-        "Name": "wormadam-plant",
-        "Type1": "Bug",
-        "Type2": "Grass",
-        "Tags": "",
-        "FilePath": "Images/wormadam-plant.png",
-        "MainColor": "[ 82.58546512 123.37093023  78.81162791 234.58023256]"
+        "Name": "medicham",
+        "Type1": "Fighting",
+        "Type2": "Psychic",
+        "Tags": [],
+        "FilePath": "Images/medicham.png",
+        "MainColor": "[213.85918367 144.90816327 155.83571429 235.36326531]"
     },
     "148": {
-        "Name": "mothim",
-        "Type1": "Bug",
-        "Type2": "Flying",
-        "Tags": "",
-        "FilePath": "Images/mothim.png",
-        "MainColor": "[0.31595823 0.15765848 0.04965189 0.09499817]"
+        "Name": "roselia",
+        "Type1": "Grass",
+        "Type2": "Poison",
+        "Tags": [],
+        "FilePath": "Images/roselia.png",
+        "MainColor": "[0. 0. 0. 0.]"
     },
     "149": {
-        "Name": "combee",
-        "Type1": "Bug",
-        "Type2": "Flying",
-        "Tags": "",
-        "FilePath": "Images/combee.png",
-        "MainColor": "[209.32840237 179.87647929 104.72485207 197.4489645 ]"
+        "Name": "carvanha",
+        "Type1": "Water",
+        "Type2": "Dark",
+        "Tags": [],
+        "FilePath": "Images/carvanha.png",
+        "MainColor": "[159.05827937 139.07493062 125.77890842 233.83256244]"
     },
     "150": {
-        "Name": "vespiquen",
-        "Type1": "Bug",
-        "Type2": "Flying",
-        "Tags": "",
-        "FilePath": "Images/vespiquen.png",
+        "Name": "sharpedo",
+        "Type1": "Water",
+        "Type2": "Dark",
+        "Tags": [],
+        "FilePath": "Images/sharpedo.png",
         "MainColor": "[0. 0. 0. 0.]"
     },
     "151": {
-        "Name": "gastrodon",
-        "Type1": "Water",
+        "Name": "numel",
+        "Type1": "Fire",
         "Type2": "Ground",
-        "Tags": "",
-        "FilePath": "Images/gastrodon.png",
-        "MainColor": "[0.         0.         0.         0.44665944]"
+        "Tags": [],
+        "FilePath": "Images/numel.png",
+        "MainColor": "[220.28653625 207.66168009 155.69850403 243.70253165]"
     },
     "152": {
-        "Name": "drifloon",
-        "Type1": "Ghost",
-        "Type2": "Flying",
-        "Tags": "",
-        "FilePath": "Images/drifloon.png",
-        "MainColor": "[0.         0.00252169 0.         0.11347623]"
+        "Name": "camerupt",
+        "Type1": "Fire",
+        "Type2": "Ground",
+        "Tags": [],
+        "FilePath": "Images/camerupt.png",
+        "MainColor": "[0.02660816 0.02390066 0.02390066 0.16665111]"
     },
     "153": {
-        "Name": "drifblim",
-        "Type1": "Ghost",
-        "Type2": "Flying",
-        "Tags": "",
-        "FilePath": "Images/drifblim.png",
-        "MainColor": "[177.94221509 152.59149278 142.84149278 241.24719101]"
+        "Name": "vibrava",
+        "Type1": "Ground",
+        "Type2": "Dragon",
+        "Tags": [],
+        "FilePath": "Images/vibrava.jpg",
+        "MainColor": "None"
     },
     "154": {
-        "Name": "honchkrow",
-        "Type1": "Dark",
-        "Type2": "Flying",
-        "Tags": "",
-        "FilePath": "Images/honchkrow.png",
-        "MainColor": "[0.16277292 0.3379492  0.46962875 0.17041883]"
+        "Name": "flygon",
+        "Type1": "Ground",
+        "Type2": "Dragon",
+        "Tags": [],
+        "FilePath": "Images/flygon.png",
+        "MainColor": "[167.85170068 171.04591837 137.32653061 225.01870748]"
     },
     "155": {
-        "Name": "stunky",
-        "Type1": "Poison",
+        "Name": "cacturne",
+        "Type1": "Grass",
         "Type2": "Dark",
-        "Tags": "",
-        "FilePath": "Images/stunky.png",
-        "MainColor": "[126.84758529 109.94328755 126.82454586 239.91315906]"
+        "Tags": [],
+        "FilePath": "Images/cacturne.png",
+        "MainColor": "[159.41693234 185.58908962 144.36981934 238.83103082]"
     },
     "156": {
-        "Name": "skuntank",
-        "Type1": "Poison",
-        "Type2": "Dark",
-        "Tags": "",
-        "FilePath": "Images/skuntank.png",
-        "MainColor": "[141.66337818 123.45261584 135.48998505 244.56621824]"
-    },
-    "157": {
-        "Name": "bronzong",
-        "Type1": "Steel",
-        "Type2": "Psychic",
-        "Tags": "",
-        "FilePath": "Images/bronzong.png",
-        "MainColor": "[106.44879615 157.83563403 157.86163724 244.88731942]"
-    },
-    "158": {
-        "Name": "chatot",
+        "Name": "swablu",
         "Type1": "Normal",
         "Type2": "Flying",
-        "Tags": "",
-        "FilePath": "Images/chatot.png",
-        "MainColor": "[0. 0. 0. 0.]"
+        "Tags": [],
+        "FilePath": "Images/swablu.png",
+        "MainColor": "[193.54082259 212.70042971 222.89748312 236.99815838]"
+    },
+    "157": {
+        "Name": "altaria",
+        "Type1": "Dragon",
+        "Type2": "Flying",
+        "Tags": [],
+        "FilePath": "Images/altaria.png",
+        "MainColor": "[215.34720677 227.27687514 234.97729802 243.07010906]"
+    },
+    "158": {
+        "Name": "lunatone",
+        "Type1": "Rock",
+        "Type2": "Psychic",
+        "Tags": [],
+        "FilePath": "Images/lunatone.jpg",
+        "MainColor": "None"
     },
     "159": {
-        "Name": "spiritomb",
-        "Type1": "Ghost",
-        "Type2": "Dark",
-        "Tags": "",
-        "FilePath": "Images/spiritomb.png",
-        "MainColor": "[0. 0. 0. 0.]"
+        "Name": "solrock",
+        "Type1": "Rock",
+        "Type2": "Psychic",
+        "Tags": [],
+        "FilePath": "Images/solrock.png",
+        "MainColor": "[0.00136185 0.00544741 0.00136185 0.24513338]"
     },
     "160": {
-        "Name": "gible",
-        "Type1": "Dragon",
+        "Name": "barboach",
+        "Type1": "Water",
         "Type2": "Ground",
-        "Tags": "",
-        "FilePath": "Images/gible.png",
-        "MainColor": "[0. 0. 0. 0.]"
+        "Tags": [],
+        "FilePath": "Images/barboach.png",
+        "MainColor": "[141.98840321 174.17395183 187.80196253 232.67707404]"
     },
     "161": {
-        "Name": "gabite",
-        "Type1": "Dragon",
+        "Name": "whiscash",
+        "Type1": "Water",
         "Type2": "Ground",
-        "Tags": "",
-        "FilePath": "Images/gabite.png",
+        "Tags": [],
+        "FilePath": "Images/whiscash.png",
         "MainColor": "[0. 0. 0. 0.]"
     },
     "162": {
-        "Name": "garchomp",
-        "Type1": "Dragon",
-        "Type2": "Ground",
-        "Tags": "",
-        "FilePath": "Images/garchomp.png",
-        "MainColor": "[114.92949947 107.90543131 125.73525027 239.67646432]"
+        "Name": "crawdaunt",
+        "Type1": "Water",
+        "Type2": "Dark",
+        "Tags": [],
+        "FilePath": "Images/crawdaunt.png",
+        "MainColor": "[0. 0. 0. 0.]"
     },
     "163": {
-        "Name": "lucario",
-        "Type1": "Fighting",
-        "Type2": "Steel",
-        "Tags": "",
-        "FilePath": "Images/lucario.png",
-        "MainColor": "[112.9        128.6512931  132.8375     237.06206897]"
+        "Name": "baltoy",
+        "Type1": "Ground",
+        "Type2": "Psychic",
+        "Tags": [],
+        "FilePath": "Images/baltoy.jpg",
+        "MainColor": "None"
     },
     "164": {
-        "Name": "skorupi",
-        "Type1": "Poison",
-        "Type2": "Bug",
-        "Tags": "",
-        "FilePath": "Images/skorupi.png",
-        "MainColor": "[141.91494253 149.3908046  178.10172414 239.20172414]"
+        "Name": "claydol",
+        "Type1": "Ground",
+        "Type2": "Psychic",
+        "Tags": [],
+        "FilePath": "Images/claydol.jpg",
+        "MainColor": "None"
     },
     "165": {
-        "Name": "drapion",
-        "Type1": "Poison",
-        "Type2": "Dark",
-        "Tags": "",
-        "FilePath": "Images/drapion.png",
-        "MainColor": "[157.05317063 112.40052299 152.59773371 234.84746132]"
+        "Name": "lileep",
+        "Type1": "Rock",
+        "Type2": "Grass",
+        "Tags": [],
+        "FilePath": "Images/lileep.png",
+        "MainColor": "[0.00132564 0.00397692 0.00132564 0.2386151 ]"
     },
     "166": {
-        "Name": "croagunk",
-        "Type1": "Poison",
-        "Type2": "Fighting",
-        "Tags": "",
-        "FilePath": "Images/croagunk.png",
-        "MainColor": "[0. 0. 0. 0.]"
+        "Name": "cradily",
+        "Type1": "Rock",
+        "Type2": "Grass",
+        "Tags": [],
+        "FilePath": "Images/cradily.png",
+        "MainColor": "[0.0714586  0.07574611 0.07431694 1.24337957]"
     },
     "167": {
-        "Name": "toxicroak",
-        "Type1": "Poison",
-        "Type2": "Fighting",
-        "Tags": "",
-        "FilePath": "Images/toxicroak.png",
-        "MainColor": "[125.72371638 129.5806846  155.96699267 237.39731051]"
+        "Name": "anorith",
+        "Type1": "Rock",
+        "Type2": "Bug",
+        "Tags": [],
+        "FilePath": "Images/anorith.png",
+        "MainColor": "[139.89777195 142.34469201 135.19266055 222.60419397]"
     },
     "168": {
-        "Name": "mantyke",
-        "Type1": "Water",
-        "Type2": "Flying",
-        "Tags": "",
-        "FilePath": "Images/mantyke.png",
-        "MainColor": "[0. 0. 0. 0.]"
+        "Name": "armaldo",
+        "Type1": "Rock",
+        "Type2": "Bug",
+        "Tags": [],
+        "FilePath": "Images/armaldo.png",
+        "MainColor": "[142.752331   143.12062937 150.1486014  243.94405594]"
     },
     "169": {
-        "Name": "abomasnow",
+        "Name": "tropius",
         "Type1": "Grass",
-        "Type2": "Ice",
-        "Tags": "",
-        "FilePath": "Images/abomasnow.png",
-        "MainColor": "[191.18559762 207.28674833 206.05252413 245.8121752 ]"
+        "Type2": "Flying",
+        "Tags": [],
+        "FilePath": "Images/tropius.png",
+        "MainColor": "[126.45126631 160.60322333 116.9370683  238.35226401]"
     },
     "170": {
-        "Name": "weavile",
-        "Type1": "Dark",
-        "Type2": "Ice",
-        "Tags": "",
-        "FilePath": "Images/weavile.png",
-        "MainColor": "[0. 0. 0. 0.]"
+        "Name": "spheal",
+        "Type1": "Ice",
+        "Type2": "Water",
+        "Tags": [],
+        "FilePath": "Images/spheal.png",
+        "MainColor": "[189.81106719 196.70355731 196.58735178 244.69249012]"
     },
     "171": {
-        "Name": "magnezone",
-        "Type1": "Electric",
-        "Type2": "Steel",
-        "Tags": "",
-        "FilePath": "Images/magnezone.png",
-        "MainColor": "[0.0014311  0.         0.         0.12879872]"
+        "Name": "sealeo",
+        "Type1": "Ice",
+        "Type2": "Water",
+        "Tags": [],
+        "FilePath": "Images/sealeo.png",
+        "MainColor": "[164.95454545 197.3705074  206.31183932 242.62737844]"
     },
     "172": {
-        "Name": "rhyperior",
-        "Type1": "Ground",
-        "Type2": "Rock",
-        "Tags": "",
-        "FilePath": "Images/rhyperior.png",
-        "MainColor": "[164.93924142 119.01348193  97.66043502 247.74833723]"
+        "Name": "walrein",
+        "Type1": "Ice",
+        "Type2": "Water",
+        "Tags": [],
+        "FilePath": "Images/walrein.png",
+        "MainColor": "[0. 0. 0. 0.]"
     },
     "173": {
-        "Name": "yanmega",
-        "Type1": "Bug",
-        "Type2": "Flying",
-        "Tags": "",
-        "FilePath": "Images/yanmega.png",
-        "MainColor": "[0. 0. 0. 0.]"
+        "Name": "relicanth",
+        "Type1": "Water",
+        "Type2": "Rock",
+        "Tags": [],
+        "FilePath": "Images/relicanth.jpg",
+        "MainColor": "None"
     },
     "174": {
-        "Name": "gliscor",
-        "Type1": "Ground",
+        "Name": "salamence",
+        "Type1": "Dragon",
         "Type2": "Flying",
-        "Tags": "",
-        "FilePath": "Images/gliscor.png",
-        "MainColor": "[136.86835443 134.14317862 153.86132208 243.62362869]"
+        "Tags": [],
+        "FilePath": "Images/salamence.png",
+        "MainColor": "[0.13830309 0.05139774 0.0610103  0.09504659]"
     },
     "175": {
-        "Name": "mamoswine",
-        "Type1": "Ice",
-        "Type2": "Ground",
-        "Tags": "",
-        "FilePath": "Images/mamoswine.png",
-        "MainColor": "[0.01045296 0.00522648 0.         0.41811847]"
+        "Name": "beldum",
+        "Type1": "Steel",
+        "Type2": "Psychic",
+        "Tags": [],
+        "FilePath": "Images/beldum.jpg",
+        "MainColor": "None"
     },
     "176": {
-        "Name": "gallade",
-        "Type1": "Psychic",
-        "Type2": "Fighting",
-        "Tags": "",
-        "FilePath": "Images/gallade.png",
-        "MainColor": "[156.13805522 186.89015606 170.55762305 230.21428571]"
-    },
-    "177": {
-        "Name": "probopass",
-        "Type1": "Rock",
-        "Type2": "Steel",
-        "Tags": "",
-        "FilePath": "Images/probopass.png",
+        "Name": "metang",
+        "Type1": "Steel",
+        "Type2": "Psychic",
+        "Tags": [],
+        "FilePath": "Images/metang.png",
         "MainColor": "[0. 0. 0. 0.]"
     },
+    "177": {
+        "Name": "metagross",
+        "Type1": "Steel",
+        "Type2": "Psychic",
+        "Tags": [],
+        "FilePath": "Images/metagross.png",
+        "MainColor": "[100.3452826  142.         157.53221905 232.63866285]"
+    },
     "178": {
-        "Name": "froslass",
-        "Type1": "Ice",
-        "Type2": "Ghost",
-        "Tags": "",
-        "FilePath": "Images/froslass.png",
-        "MainColor": "[190.85275081 189.9832794  192.46170442 239.73300971]"
+        "Name": "latias",
+        "Type1": "Dragon",
+        "Type2": "Psychic",
+        "Tags": [],
+        "FilePath": "Images/latias.png",
+        "MainColor": "[180.45868263 140.58862275 150.54371257 234.07065868]"
     },
     "179": {
-        "Name": "dialga",
-        "Type1": "Steel",
-        "Type2": "Dragon",
-        "Tags": "",
-        "FilePath": "Images/dialga.png",
-        "MainColor": "[0.02643263 0.0356221  0.04945792 0.08951988]"
+        "Name": "latios",
+        "Type1": "Dragon",
+        "Type2": "Psychic",
+        "Tags": [],
+        "FilePath": "Images/latios.png",
+        "MainColor": "[0. 0. 0. 0.]"
     },
     "180": {
-        "Name": "palkia",
-        "Type1": "Water",
-        "Type2": "Dragon",
-        "Tags": "",
-        "FilePath": "Images/palkia.png",
-        "MainColor": "[0.18348115 0.12660754 0.19456763 1.19301552]"
+        "Name": "rayquaza",
+        "Type1": "Dragon",
+        "Type2": "Flying",
+        "Tags": [],
+        "FilePath": "Images/rayquaza.png",
+        "MainColor": "[0. 0. 0. 0.]"
     },
     "181": {
-        "Name": "heatran",
-        "Type1": "Fire",
-        "Type2": "Steel",
-        "Tags": "",
-        "FilePath": "Images/heatran.png",
-        "MainColor": "[157.05370972 131.72420684 121.48663502 245.18561079]"
+        "Name": "jirachi",
+        "Type1": "Steel",
+        "Type2": "Psychic",
+        "Tags": [],
+        "FilePath": "Images/jirachi.png",
+        "MainColor": "[208.8458283  208.46009674 161.53748489 232.7376058 ]"
     },
     "182": {
-        "Name": "giratina-altered",
-        "Type1": "Ghost",
-        "Type2": "Dragon",
-        "Tags": "",
-        "FilePath": "Images/giratina-altered.png",
-        "MainColor": "[0.15682232 0.15039418 0.1569436  0.30721649]"
+        "Name": "torterra",
+        "Type1": "Grass",
+        "Type2": "Ground",
+        "Tags": [],
+        "FilePath": "Images/torterra.png",
+        "MainColor": "[0. 0. 0. 0.]"
     },
     "183": {
-        "Name": "victini",
-        "Type1": "Psychic",
-        "Type2": "Fire",
-        "Tags": "",
-        "FilePath": "Images/victini.png",
-        "MainColor": "[0.         0.00262204 0.0065551  0.17698774]"
-    },
-    "184": {
-        "Name": "pignite",
+        "Name": "monferno",
         "Type1": "Fire",
         "Type2": "Fighting",
-        "Tags": "",
-        "FilePath": "Images/pignite.png",
+        "Tags": [],
+        "FilePath": "Images/monferno.png",
+        "MainColor": "[0.         0.         0.         0.08142412]"
+    },
+    "184": {
+        "Name": "infernape",
+        "Type1": "Fire",
+        "Type2": "Fighting",
+        "Tags": [],
+        "FilePath": "Images/infernape.png",
         "MainColor": "[0. 0. 0. 0.]"
     },
     "185": {
-        "Name": "emboar",
-        "Type1": "Fire",
-        "Type2": "Fighting",
-        "Tags": "",
-        "FilePath": "Images/emboar.png",
-        "MainColor": "[140.70472937 107.48750225  65.63172091 245.78618953]"
+        "Name": "empoleon",
+        "Type1": "Water",
+        "Type2": "Steel",
+        "Tags": [],
+        "FilePath": "Images/empoleon.png",
+        "MainColor": "[107.02843602 115.09768299 113.41995787 240.34096893]"
     },
     "186": {
-        "Name": "tranquill",
+        "Name": "starly",
         "Type1": "Normal",
         "Type2": "Flying",
-        "Tags": "",
-        "FilePath": "Images/tranquill.png",
-        "MainColor": "[159.10731473 153.14677575 154.44610202 233.18960539]"
+        "Tags": [],
+        "FilePath": "Images/starly.jpg",
+        "MainColor": "None"
     },
     "187": {
-        "Name": "unfezant",
+        "Name": "staravia",
         "Type1": "Normal",
         "Type2": "Flying",
-        "Tags": "",
-        "FilePath": "Images/unfezant.png",
+        "Tags": [],
+        "FilePath": "Images/staravia.png",
         "MainColor": "[0. 0. 0. 0.]"
     },
     "188": {
-        "Name": "swoobat",
-        "Type1": "Psychic",
+        "Name": "staraptor",
+        "Type1": "Normal",
         "Type2": "Flying",
-        "Tags": "",
-        "FilePath": "Images/swoobat.png",
-        "MainColor": "[108.11338141 123.49959936 139.99799679 235.17347756]"
+        "Tags": [],
+        "FilePath": "Images/staraptor.png",
+        "MainColor": "[0.48389919 0.46141057 0.35675534 0.41652083]"
     },
     "189": {
-        "Name": "palpitoad",
-        "Type1": "Water",
-        "Type2": "Ground",
-        "Tags": "",
-        "FilePath": "Images/palpitoad.png",
-        "MainColor": "[0.         0.         0.         0.02072665]"
+        "Name": "bibarel",
+        "Type1": "Normal",
+        "Type2": "Water",
+        "Tags": [],
+        "FilePath": "Images/bibarel.png",
+        "MainColor": "[164.73440066 135.15599343  87.94252874 245.41133005]"
     },
     "190": {
-        "Name": "seismitoad",
-        "Type1": "Water",
-        "Type2": "Ground",
-        "Tags": "",
-        "FilePath": "Images/seismitoad.png",
-        "MainColor": "[0. 0. 0. 0.]"
+        "Name": "budew",
+        "Type1": "Grass",
+        "Type2": "Poison",
+        "Tags": [],
+        "FilePath": "Images/budew.png",
+        "MainColor": "[144.35455543 175.75631175  86.2349067  241.56421515]"
     },
     "191": {
-        "Name": "sewaddle",
-        "Type1": "Bug",
-        "Type2": "Grass",
-        "Tags": "",
-        "FilePath": "Images/sewaddle.png",
-        "MainColor": "[175.61106074 178.13055304  85.25113327 242.30009066]"
+        "Name": "roserade",
+        "Type1": "Grass",
+        "Type2": "Poison",
+        "Tags": [],
+        "FilePath": "Images/roserade.png",
+        "MainColor": "[156.41483516 163.09505495 166.91428571 240.91428571]"
     },
     "192": {
-        "Name": "swadloon",
-        "Type1": "Bug",
-        "Type2": "Grass",
-        "Tags": "",
-        "FilePath": "Images/swadloon.png",
-        "MainColor": "[0. 0. 0. 0.]"
+        "Name": "shieldon",
+        "Type1": "Rock",
+        "Type2": "Steel",
+        "Tags": [],
+        "FilePath": "Images/shieldon.jpg",
+        "MainColor": "None"
     },
     "193": {
-        "Name": "leavanny",
-        "Type1": "Bug",
-        "Type2": "Grass",
-        "Tags": "",
-        "FilePath": "Images/leavanny.png",
-        "MainColor": "[0.02028317 0.0174992  0.00755647 0.00540885]"
+        "Name": "bastiodon",
+        "Type1": "Rock",
+        "Type2": "Steel",
+        "Tags": [],
+        "FilePath": "Images/bastiodon.jpg",
+        "MainColor": "None"
     },
     "194": {
-        "Name": "venipede",
+        "Name": "wormadam-plant",
         "Type1": "Bug",
-        "Type2": "Poison",
-        "Tags": "",
-        "FilePath": "Images/venipede.png",
-        "MainColor": "[181.51889169  94.55730479 113.93073048 242.92443325]"
+        "Type2": "Grass",
+        "Tags": [],
+        "FilePath": "Images/wormadam-plant.png",
+        "MainColor": "[0. 0. 0. 0.]"
     },
     "195": {
-        "Name": "whirlipede",
+        "Name": "mothim",
         "Type1": "Bug",
-        "Type2": "Poison",
-        "Tags": "",
-        "FilePath": "Images/whirlipede.png",
-        "MainColor": "[0. 0. 0. 0.]"
+        "Type2": "Flying",
+        "Tags": [],
+        "FilePath": "Images/mothim.png",
+        "MainColor": "[205.79764638 160.39982778  86.09988519 235.36021814]"
     },
     "196": {
-        "Name": "scolipede",
+        "Name": "combee",
         "Type1": "Bug",
-        "Type2": "Poison",
-        "Tags": "",
-        "FilePath": "Images/scolipede.png",
-        "MainColor": "[0. 0. 0. 0.]"
+        "Type2": "Flying",
+        "Tags": [],
+        "FilePath": "Images/combee.png",
+        "MainColor": "[209.32840237 179.87647929 104.72485207 197.4489645 ]"
     },
     "197": {
-        "Name": "cottonee",
-        "Type1": "Grass",
-        "Type2": "Fairy",
-        "Tags": "",
-        "FilePath": "Images/cottonee.png",
-        "MainColor": "[0.         0.01025718 0.         0.03846444]"
-    },
-    "198": {
-        "Name": "krokorok",
-        "Type1": "Ground",
-        "Type2": "Dark",
-        "Tags": "",
-        "FilePath": "Images/krokorok.png",
-        "MainColor": "[151.53357626 124.43466944 100.92399792 240.21238938]"
-    },
-    "199": {
-        "Name": "krookodile",
-        "Type1": "Ground",
-        "Type2": "Dark",
-        "Tags": "",
-        "FilePath": "Images/krookodile.png",
-        "MainColor": "[157.11619622 117.12688408 125.38202247 244.14031241]"
-    },
-    "200": {
-        "Name": "crustle",
+        "Name": "vespiquen",
         "Type1": "Bug",
-        "Type2": "Rock",
-        "Tags": "",
-        "FilePath": "Images/crustle.png",
-        "MainColor": "[132.50933333 109.30895238  82.39619048 248.676     ]"
-    },
-    "201": {
-        "Name": "scraggy",
-        "Type1": "Dark",
-        "Type2": "Fighting",
-        "Tags": "",
-        "FilePath": "Images/scraggy.png",
-        "MainColor": "[0.00260397 0.00520793 0.00260397 0.03905951]"
-    },
-    "202": {
-        "Name": "scrafty",
-        "Type1": "Dark",
-        "Type2": "Fighting",
-        "Tags": "",
-        "FilePath": "Images/scrafty.png",
+        "Type2": "Flying",
+        "Tags": [],
+        "FilePath": "Images/vespiquen.png",
         "MainColor": "[0. 0. 0. 0.]"
     },
-    "203": {
-        "Name": "sigilyph",
-        "Type1": "Psychic",
+    "198": {
+        "Name": "gastrodon",
+        "Type1": "Water",
+        "Type2": "Ground",
+        "Tags": [],
+        "FilePath": "Images/gastrodon.png",
+        "MainColor": "[185.80506014 136.99668187 120.35006221 243.94400664]"
+    },
+    "199": {
+        "Name": "drifloon",
+        "Type1": "Ghost",
         "Type2": "Flying",
-        "Tags": "",
-        "FilePath": "Images/sigilyph.png",
+        "Tags": [],
+        "FilePath": "Images/drifloon.jpg",
+        "MainColor": "None"
+    },
+    "200": {
+        "Name": "drifblim",
+        "Type1": "Ghost",
+        "Type2": "Flying",
+        "Tags": [],
+        "FilePath": "Images/drifblim.png",
+        "MainColor": "[177.94221509 152.59149278 142.84149278 241.24719101]"
+    },
+    "201": {
+        "Name": "honchkrow",
+        "Type1": "Dark",
+        "Type2": "Flying",
+        "Tags": [],
+        "FilePath": "Images/honchkrow.png",
+        "MainColor": "[ 96.84138456 113.76416889 131.85279574 237.0559148 ]"
+    },
+    "202": {
+        "Name": "stunky",
+        "Type1": "Poison",
+        "Type2": "Dark",
+        "Tags": [],
+        "FilePath": "Images/stunky.png",
+        "MainColor": "[126.84758529 109.94328755 126.82454586 239.91315906]"
+    },
+    "203": {
+        "Name": "skuntank",
+        "Type1": "Poison",
+        "Type2": "Dark",
+        "Tags": [],
+        "FilePath": "Images/skuntank.png",
         "MainColor": "[0. 0. 0. 0.]"
     },
     "204": {
-        "Name": "carracosta",
-        "Type1": "Water",
-        "Type2": "Rock",
-        "Tags": "",
-        "FilePath": "Images/carracosta.png",
-        "MainColor": "[0. 0. 0. 0.]"
+        "Name": "bronzor",
+        "Type1": "Steel",
+        "Type2": "Psychic",
+        "Tags": [],
+        "FilePath": "Images/bronzor.jpg",
+        "MainColor": "None"
     },
     "205": {
-        "Name": "archen",
-        "Type1": "Rock",
-        "Type2": "Flying",
-        "Tags": "",
-        "FilePath": "Images/archen.png",
+        "Name": "bronzong",
+        "Type1": "Steel",
+        "Type2": "Psychic",
+        "Tags": [],
+        "FilePath": "Images/bronzong.png",
         "MainColor": "[0. 0. 0. 0.]"
     },
     "206": {
-        "Name": "archeops",
-        "Type1": "Rock",
-        "Type2": "Flying",
-        "Tags": "",
-        "FilePath": "Images/archeops.png",
-        "MainColor": "[143.91964056 153.20410783 133.20795892 234.14608472]"
+        "Name": "mime-jr",
+        "Type1": "Psychic",
+        "Type2": "Fairy",
+        "Tags": [],
+        "FilePath": "Images/mime-jr.jpg",
+        "MainColor": "None"
     },
     "207": {
-        "Name": "ducklett",
-        "Type1": "Water",
+        "Name": "chatot",
+        "Type1": "Normal",
         "Type2": "Flying",
-        "Tags": "",
-        "FilePath": "Images/ducklett.png",
-        "MainColor": "[160.36579926 191.19851301 183.44460967 239.50408922]"
+        "Tags": [],
+        "FilePath": "Images/chatot.png",
+        "MainColor": "[0. 0. 0. 0.]"
     },
     "208": {
-        "Name": "swanna",
-        "Type1": "Water",
-        "Type2": "Flying",
-        "Tags": "",
-        "FilePath": "Images/swanna.png",
-        "MainColor": "[0.09339326 0.10373034 0.12683146 0.49051685]"
+        "Name": "spiritomb",
+        "Type1": "Ghost",
+        "Type2": "Dark",
+        "Tags": [],
+        "FilePath": "Images/spiritomb.png",
+        "MainColor": "[178.19712382 139.14836899 145.74780779 232.49631708]"
     },
     "209": {
-        "Name": "deerling",
-        "Type1": "Normal",
-        "Type2": "Grass",
-        "Tags": "",
-        "FilePath": "Images/deerling.png",
-        "MainColor": "[201.61322082 170.9416315  142.76863572 233.50492264]"
+        "Name": "gible",
+        "Type1": "Dragon",
+        "Type2": "Ground",
+        "Tags": [],
+        "FilePath": "Images/gible.png",
+        "MainColor": "[121.18192286 128.30109384 132.53655728 242.49222798]"
     },
     "210": {
-        "Name": "sawsbuck",
-        "Type1": "Normal",
-        "Type2": "Grass",
-        "Tags": "",
-        "FilePath": "Images/sawsbuck.png",
-        "MainColor": "[147.3709909  116.73815223  81.54380086 233.13355673]"
+        "Name": "gabite",
+        "Type1": "Dragon",
+        "Type2": "Ground",
+        "Tags": [],
+        "FilePath": "Images/gabite.png",
+        "MainColor": "[130.06445672 117.01657459 139.42081031 239.30709024]"
     },
     "211": {
-        "Name": "emolga",
-        "Type1": "Electric",
-        "Type2": "Flying",
-        "Tags": "",
-        "FilePath": "Images/emolga.png",
-        "MainColor": "[150.87647691 145.55316864 134.29645542 241.93501611]"
+        "Name": "garchomp",
+        "Type1": "Dragon",
+        "Type2": "Ground",
+        "Tags": [],
+        "FilePath": "Images/garchomp.png",
+        "MainColor": "[0. 0. 0. 0.]"
     },
     "212": {
-        "Name": "escavalier",
-        "Type1": "Bug",
+        "Name": "lucario",
+        "Type1": "Fighting",
         "Type2": "Steel",
-        "Tags": "",
-        "FilePath": "Images/escavalier.png",
-        "MainColor": "[197.19146919 152.84012638 145.58830964 242.83949447]"
+        "Tags": [],
+        "FilePath": "Images/lucario.png",
+        "MainColor": "[0. 0. 0. 0.]"
     },
     "213": {
-        "Name": "amoonguss",
-        "Type1": "Grass",
-        "Type2": "Poison",
-        "Tags": "",
-        "FilePath": "Images/amoonguss.png",
-        "MainColor": "[162.63335287 135.97450176 130.62397421 245.51846424]"
+        "Name": "skorupi",
+        "Type1": "Poison",
+        "Type2": "Bug",
+        "Tags": [],
+        "FilePath": "Images/skorupi.png",
+        "MainColor": "[0.         0.         0.00537125 0.08056872]"
     },
     "214": {
-        "Name": "frillish",
-        "Type1": "Water",
-        "Type2": "Ghost",
-        "Tags": "",
-        "FilePath": "Images/frillish.png",
-        "MainColor": "[0.00136502 0.00136502 0.00136502 0.02047535]"
+        "Name": "drapion",
+        "Type1": "Poison",
+        "Type2": "Dark",
+        "Tags": [],
+        "FilePath": "Images/drapion.png",
+        "MainColor": "[0.26286821 0.12241362 0.22056875 0.1663439 ]"
     },
     "215": {
-        "Name": "jellicent",
-        "Type1": "Water",
-        "Type2": "Ghost",
-        "Tags": "",
-        "FilePath": "Images/jellicent.png",
-        "MainColor": "[180.33048875 213.37419188 232.22187742 243.79855185]"
+        "Name": "croagunk",
+        "Type1": "Poison",
+        "Type2": "Fighting",
+        "Tags": [],
+        "FilePath": "Images/croagunk.png",
+        "MainColor": "[106.67791216 118.67663908 146.18077658 240.79185232]"
     },
     "216": {
-        "Name": "joltik",
-        "Type1": "Bug",
-        "Type2": "Electric",
-        "Tags": "",
-        "FilePath": "Images/joltik.png",
-        "MainColor": "[0.00250516 0.00626289 0.0175361  0.13152078]"
+        "Name": "toxicroak",
+        "Type1": "Poison",
+        "Type2": "Fighting",
+        "Tags": [],
+        "FilePath": "Images/toxicroak.png",
+        "MainColor": "[125.72371638 129.5806846  155.96699267 237.39731051]"
     },
     "217": {
-        "Name": "galvantula",
-        "Type1": "Bug",
-        "Type2": "Electric",
-        "Tags": "",
-        "FilePath": "Images/galvantula.png",
-        "MainColor": "[0.00277189 0.00554378 0.01801728 0.24947008]"
+        "Name": "mantyke",
+        "Type1": "Water",
+        "Type2": "Flying",
+        "Tags": [],
+        "FilePath": "Images/mantyke.png",
+        "MainColor": "[ 88.80797396 139.50203417 180.00895037 239.0374288 ]"
     },
     "218": {
-        "Name": "ferroseed",
+        "Name": "snover",
         "Type1": "Grass",
-        "Type2": "Steel",
-        "Tags": "",
-        "FilePath": "Images/ferroseed.png",
-        "MainColor": "[132.60932297 151.04162042 130.60932297 241.6509434 ]"
+        "Type2": "Ice",
+        "Tags": [],
+        "FilePath": "Images/snover.jpg",
+        "MainColor": "None"
     },
     "219": {
-        "Name": "ferrothorn",
+        "Name": "abomasnow",
         "Type1": "Grass",
-        "Type2": "Steel",
-        "Tags": "",
-        "FilePath": "Images/ferrothorn.png",
-        "MainColor": "[133.58515043 166.80458184 137.50786641 235.21280707]"
+        "Type2": "Ice",
+        "Tags": [],
+        "FilePath": "Images/abomasnow.png",
+        "MainColor": "[0.15268531 0.25266312 0.24545051 0.70739015]"
     },
     "220": {
-        "Name": "litwick",
-        "Type1": "Ghost",
-        "Type2": "Fire",
-        "Tags": "",
-        "FilePath": "Images/litwick.png",
+        "Name": "weavile",
+        "Type1": "Dark",
+        "Type2": "Ice",
+        "Tags": [],
+        "FilePath": "Images/weavile.png",
         "MainColor": "[0. 0. 0. 0.]"
     },
     "221": {
-        "Name": "chandelure",
-        "Type1": "Ghost",
-        "Type2": "Fire",
-        "Tags": "",
-        "FilePath": "Images/chandelure.png",
-        "MainColor": "[0.00651607 0.00651607 0.01172893 0.00147698]"
+        "Name": "magnezone",
+        "Type1": "Electric",
+        "Type2": "Steel",
+        "Tags": [],
+        "FilePath": "Images/magnezone.png",
+        "MainColor": "[154.51249504 157.56525188 156.56723522 241.95160651]"
     },
     "222": {
-        "Name": "stunfisk",
+        "Name": "rhyperior",
         "Type1": "Ground",
-        "Type2": "Electric",
-        "Tags": "",
-        "FilePath": "Images/stunfisk.png",
-        "MainColor": "[185.3283818  149.56826802 105.26485461 245.62958281]"
+        "Type2": "Rock",
+        "Tags": [],
+        "FilePath": "Images/rhyperior.png",
+        "MainColor": "[164.93924142 119.01348193  97.66043502 247.74833723]"
     },
     "223": {
-        "Name": "golett",
-        "Type1": "Ground",
-        "Type2": "Ghost",
-        "Tags": "",
-        "FilePath": "Images/golett.png",
-        "MainColor": "[0. 0. 0. 0.]"
+        "Name": "togekiss",
+        "Type1": "Fairy",
+        "Type2": "Flying",
+        "Tags": [],
+        "FilePath": "Images/togekiss.jpg",
+        "MainColor": "None"
     },
     "224": {
-        "Name": "golurk",
-        "Type1": "Ground",
-        "Type2": "Ghost",
-        "Tags": "",
-        "FilePath": "Images/golurk.png",
-        "MainColor": "[0.05803681 0.09533742 0.09742331 0.08134969]"
+        "Name": "yanmega",
+        "Type1": "Bug",
+        "Type2": "Flying",
+        "Tags": [],
+        "FilePath": "Images/yanmega.png",
+        "MainColor": "[0. 0. 0. 0.]"
     },
     "225": {
-        "Name": "pawniard",
-        "Type1": "Dark",
-        "Type2": "Steel",
-        "Tags": "",
-        "FilePath": "Images/pawniard.png",
-        "MainColor": "[137.38332165 118.86755431 116.57042747 236.98738612]"
-    },
-    "226": {
-        "Name": "bisharp",
-        "Type1": "Dark",
-        "Type2": "Steel",
-        "Tags": "",
-        "FilePath": "Images/bisharp.png",
-        "MainColor": "[162.61471683 126.92104175 120.61223646 239.05415461]"
-    },
-    "227": {
-        "Name": "rufflet",
-        "Type1": "Normal",
-        "Type2": "Flying",
-        "Tags": "",
-        "FilePath": "Images/rufflet.png",
-        "MainColor": "[0.02799122 0.0266583  0.03065705 0.33989337]"
-    },
-    "228": {
-        "Name": "braviary",
-        "Type1": "Normal",
-        "Type2": "Flying",
-        "Tags": "",
-        "FilePath": "Images/braviary.png",
-        "MainColor": "[103.97128432  91.59198485  96.74029662 237.72641212]"
-    },
-    "229": {
-        "Name": "mandibuzz",
-        "Type1": "Dark",
-        "Type2": "Flying",
-        "Tags": "",
-        "FilePath": "Images/mandibuzz.png",
-        "MainColor": "[152.44935897 131.59647436 120.40384615 239.92339744]"
-    },
-    "230": {
-        "Name": "zweilous",
-        "Type1": "Dark",
-        "Type2": "Dragon",
-        "Tags": "",
-        "FilePath": "Images/zweilous.png",
-        "MainColor": "[0. 0. 0. 0.]"
-    },
-    "231": {
-        "Name": "hydreigon",
-        "Type1": "Dark",
-        "Type2": "Dragon",
-        "Tags": "",
-        "FilePath": "Images/hydreigon.png",
-        "MainColor": "[0. 0. 0. 0.]"
-    },
-    "232": {
-        "Name": "larvesta",
-        "Type1": "Bug",
-        "Type2": "Fire",
-        "Tags": "",
-        "FilePath": "Images/larvesta.png",
-        "MainColor": "[206.5        185.85270541 180.30210421 241.80711423]"
-    },
-    "233": {
-        "Name": "volcarona",
-        "Type1": "Bug",
-        "Type2": "Fire",
-        "Tags": "",
-        "FilePath": "Images/volcarona.png",
-        "MainColor": "[182.88881469 145.2557596  133.90050083 244.7148581 ]"
-    },
-    "234": {
-        "Name": "cobalion",
-        "Type1": "Steel",
-        "Type2": "Fighting",
-        "Tags": "",
-        "FilePath": "Images/cobalion.png",
-        "MainColor": "[0.01304121 0.01043297 0.00782473 0.001478  ]"
-    },
-    "235": {
-        "Name": "terrakion",
-        "Type1": "Rock",
-        "Type2": "Fighting",
-        "Tags": "",
-        "FilePath": "Images/terrakion.png",
-        "MainColor": "[0.         0.         0.         0.02503155]"
-    },
-    "236": {
-        "Name": "virizion",
-        "Type1": "Grass",
-        "Type2": "Fighting",
-        "Tags": "",
-        "FilePath": "Images/virizion.png",
-        "MainColor": "[159.85090522 179.31558395 109.04082357 236.85942492]"
-    },
-    "237": {
-        "Name": "thundurus-incarnate",
-        "Type1": "Electric",
-        "Type2": "Flying",
-        "Tags": "",
-        "FilePath": "Images/thundurus-incarnate.png",
-        "MainColor": "[157.0173445  166.03229665 174.63666268 239.79455742]"
-    },
-    "238": {
-        "Name": "reshiram",
-        "Type1": "Dragon",
-        "Type2": "Fire",
-        "Tags": "",
-        "FilePath": "Images/reshiram.png",
-        "MainColor": "[0.20248963 0.21721992 0.24512448 0.32624481]"
-    },
-    "239": {
-        "Name": "zekrom",
-        "Type1": "Dragon",
-        "Type2": "Electric",
-        "Tags": "",
-        "FilePath": "Images/zekrom.png",
-        "MainColor": "[0.24471519 0.2978236  0.29605332 0.19473081]"
-    },
-    "240": {
-        "Name": "landorus-incarnate",
+        "Name": "gliscor",
         "Type1": "Ground",
         "Type2": "Flying",
-        "Tags": "",
-        "FilePath": "Images/landorus-incarnate.png",
-        "MainColor": "[183.30404218 159.70620972 149.34065612 243.29818395]"
+        "Tags": [],
+        "FilePath": "Images/gliscor.png",
+        "MainColor": "[0.00617796 0.00617796 0.00792992 0.00627017]"
+    },
+    "226": {
+        "Name": "mamoswine",
+        "Type1": "Ice",
+        "Type2": "Ground",
+        "Tags": [],
+        "FilePath": "Images/mamoswine.png",
+        "MainColor": "[183.83993968 162.10017234 133.2005601  245.68332615]"
+    },
+    "227": {
+        "Name": "gallade",
+        "Type1": "Psychic",
+        "Type2": "Fighting",
+        "Tags": [],
+        "FilePath": "Images/gallade.png",
+        "MainColor": "[156.13805522 186.89015606 170.55762305 230.21428571]"
+    },
+    "228": {
+        "Name": "probopass",
+        "Type1": "Rock",
+        "Type2": "Steel",
+        "Tags": [],
+        "FilePath": "Images/probopass.png",
+        "MainColor": "[0. 0. 0. 0.]"
+    },
+    "229": {
+        "Name": "froslass",
+        "Type1": "Ice",
+        "Type2": "Ghost",
+        "Tags": [],
+        "FilePath": "Images/froslass.png",
+        "MainColor": "[0.03523035 0.         0.04742547 0.32520325]"
+    },
+    "230": {
+        "Name": "rotom",
+        "Type1": "Electric",
+        "Type2": "Ghost",
+        "Tags": [],
+        "FilePath": "Images/rotom.jpg",
+        "MainColor": "None"
+    },
+    "231": {
+        "Name": "dialga",
+        "Type1": "Steel",
+        "Type2": "Dragon",
+        "Tags": [],
+        "FilePath": "Images/dialga.png",
+        "MainColor": "[126.78621421 146.91537646 168.89628844 239.31240721]"
+    },
+    "232": {
+        "Name": "palkia",
+        "Type1": "Water",
+        "Type2": "Dragon",
+        "Tags": [],
+        "FilePath": "Images/palkia.png",
+        "MainColor": "[0.18348115 0.12660754 0.19456763 1.19301552]"
+    },
+    "233": {
+        "Name": "heatran",
+        "Type1": "Fire",
+        "Type2": "Steel",
+        "Tags": [],
+        "FilePath": "Images/heatran.png",
+        "MainColor": "[157.05370972 131.72420684 121.48663502 245.18561079]"
+    },
+    "234": {
+        "Name": "giratina-altered",
+        "Type1": "Ghost",
+        "Type2": "Dragon",
+        "Tags": [],
+        "FilePath": "Images/giratina-altered.png",
+        "MainColor": "[0.15682232 0.15039418 0.1569436  0.30721649]"
+    },
+    "235": {
+        "Name": "victini",
+        "Type1": "Psychic",
+        "Type2": "Fire",
+        "Tags": [],
+        "FilePath": "Images/victini.png",
+        "MainColor": "[194.94696441 161.38939288 120.33496162 234.99860433]"
+    },
+    "236": {
+        "Name": "pignite",
+        "Type1": "Fire",
+        "Type2": "Fighting",
+        "Tags": [],
+        "FilePath": "Images/pignite.png",
+        "MainColor": "[156.07181918 108.15311703  68.18410499 244.64382063]"
+    },
+    "237": {
+        "Name": "emboar",
+        "Type1": "Fire",
+        "Type2": "Fighting",
+        "Tags": [],
+        "FilePath": "Images/emboar.png",
+        "MainColor": "[140.70472937 107.48750225  65.63172091 245.78618953]"
+    },
+    "238": {
+        "Name": "pidove",
+        "Type1": "Normal",
+        "Type2": "Flying",
+        "Tags": [],
+        "FilePath": "Images/pidove.jpg",
+        "MainColor": "None"
+    },
+    "239": {
+        "Name": "tranquill",
+        "Type1": "Normal",
+        "Type2": "Flying",
+        "Tags": [],
+        "FilePath": "Images/tranquill.png",
+        "MainColor": "[159.10731473 153.14677575 154.44610202 233.18960539]"
+    },
+    "240": {
+        "Name": "unfezant",
+        "Type1": "Normal",
+        "Type2": "Flying",
+        "Tags": [],
+        "FilePath": "Images/unfezant.png",
+        "MainColor": "[125.85085182 125.68113147 122.243973   236.62295082]"
     },
     "241": {
-        "Name": "kyurem",
-        "Type1": "Dragon",
-        "Type2": "Ice",
-        "Tags": "",
-        "FilePath": "Images/kyurem.png",
-        "MainColor": "[0.00904656 0.00452328 0.00452328 0.13569845]"
+        "Name": "woobat",
+        "Type1": "Psychic",
+        "Type2": "Flying",
+        "Tags": [],
+        "FilePath": "Images/woobat.jpg",
+        "MainColor": "None"
     },
     "242": {
-        "Name": "keldeo-ordinary",
-        "Type1": "Water",
-        "Type2": "Fighting",
-        "Tags": "",
-        "FilePath": "Images/keldeo-ordinary.png",
-        "MainColor": "[0.         0.0013864  0.00277279 0.02079595]"
+        "Name": "swoobat",
+        "Type1": "Psychic",
+        "Type2": "Flying",
+        "Tags": [],
+        "FilePath": "Images/swoobat.png",
+        "MainColor": "[108.11338141 123.49959936 139.99799679 235.17347756]"
     },
     "243": {
-        "Name": "genesect",
-        "Type1": "Bug",
+        "Name": "excadrill",
+        "Type1": "Ground",
         "Type2": "Steel",
-        "Tags": "",
-        "FilePath": "Images/genesect.png",
-        "MainColor": "[158.62226212 132.16445242 158.02513465 237.81077199]"
+        "Tags": [],
+        "FilePath": "Images/excadrill.jpg",
+        "MainColor": "None"
     },
     "244": {
-        "Name": "chesnaught",
-        "Type1": "Grass",
-        "Type2": "Fighting",
-        "Tags": "",
-        "FilePath": "Images/chesnaught.png",
-        "MainColor": "[0.54439746 0.42336152 0.28773784 0.58403805]"
+        "Name": "palpitoad",
+        "Type1": "Water",
+        "Type2": "Ground",
+        "Tags": [],
+        "FilePath": "Images/palpitoad.png",
+        "MainColor": "[0.         0.         0.         0.02072665]"
     },
     "245": {
-        "Name": "delphox",
-        "Type1": "Fire",
-        "Type2": "Psychic",
-        "Tags": "",
-        "FilePath": "Images/delphox.png",
-        "MainColor": "[181.93116178 108.08664495  82.83713355 239.85320304]"
+        "Name": "seismitoad",
+        "Type1": "Water",
+        "Type2": "Ground",
+        "Tags": [],
+        "FilePath": "Images/seismitoad.png",
+        "MainColor": "[ 94.97635795 144.36127394 170.82121923 246.22098476]"
     },
     "246": {
-        "Name": "greninja",
-        "Type1": "Water",
-        "Type2": "Dark",
-        "Tags": "",
-        "FilePath": "Images/greninja.png",
-        "MainColor": "[0.02680324 0.07528809 0.12010243 0.0609475 ]"
+        "Name": "sewaddle",
+        "Type1": "Bug",
+        "Type2": "Grass",
+        "Tags": [],
+        "FilePath": "Images/sewaddle.png",
+        "MainColor": "[0.         0.         0.         0.05753177]"
     },
     "247": {
-        "Name": "diggersby",
-        "Type1": "Normal",
-        "Type2": "Ground",
-        "Tags": "",
-        "FilePath": "Images/diggersby.png",
-        "MainColor": "[157.77711942 138.61531449 109.22151322 241.54102097]"
+        "Name": "swadloon",
+        "Type1": "Bug",
+        "Type2": "Grass",
+        "Tags": [],
+        "FilePath": "Images/swadloon.png",
+        "MainColor": "[0. 0. 0. 0.]"
     },
     "248": {
-        "Name": "fletchling",
-        "Type1": "Normal",
-        "Type2": "Flying",
-        "Tags": "",
-        "FilePath": "Images/fletchling.png",
-        "MainColor": "[174.17903416 136.55241461 123.86690224 228.80918728]"
+        "Name": "leavanny",
+        "Type1": "Bug",
+        "Type2": "Grass",
+        "Tags": [],
+        "FilePath": "Images/leavanny.png",
+        "MainColor": "[0.02028317 0.0174992  0.00755647 0.00540885]"
     },
     "249": {
-        "Name": "fletchinder",
-        "Type1": "Fire",
-        "Type2": "Flying",
-        "Tags": "",
-        "FilePath": "Images/fletchinder.png",
+        "Name": "venipede",
+        "Type1": "Bug",
+        "Type2": "Poison",
+        "Tags": [],
+        "FilePath": "Images/venipede.png",
         "MainColor": "[0. 0. 0. 0.]"
     },
     "250": {
-        "Name": "talonflame",
-        "Type1": "Fire",
-        "Type2": "Flying",
-        "Tags": "",
-        "FilePath": "Images/talonflame.png",
-        "MainColor": "[153.20694493 132.23570677 124.07155384 232.7407927 ]"
+        "Name": "whirlipede",
+        "Type1": "Bug",
+        "Type2": "Poison",
+        "Tags": [],
+        "FilePath": "Images/whirlipede.png",
+        "MainColor": "[150.31054759 134.88092613 149.23961779 243.96655641]"
     },
     "251": {
-        "Name": "vivillon",
+        "Name": "scolipede",
         "Type1": "Bug",
-        "Type2": "Flying",
-        "Tags": "",
-        "FilePath": "Images/vivillon.png",
-        "MainColor": "[169.89132841 108.52675277 136.59354244 245.11678967]"
+        "Type2": "Poison",
+        "Tags": [],
+        "FilePath": "Images/scolipede.png",
+        "MainColor": "[0. 0. 0. 0.]"
     },
     "252": {
-        "Name": "pyroar",
-        "Type1": "Fire",
-        "Type2": "Normal",
-        "Tags": "",
-        "FilePath": "Images/pyroar.png",
-        "MainColor": "[198.93336873 123.33395275  90.58083355 243.78550571]"
+        "Name": "cottonee",
+        "Type1": "Grass",
+        "Type2": "Fairy",
+        "Tags": [],
+        "FilePath": "Images/cottonee.png",
+        "MainColor": "[175.3768624  210.83523225 168.77563541 241.35232252]"
     },
     "253": {
-        "Name": "honedge",
-        "Type1": "Steel",
-        "Type2": "Ghost",
-        "Tags": "",
-        "FilePath": "Images/honedge.png",
-        "MainColor": "[127.79816045 150.3444047  148.94225856 235.1594277 ]"
+        "Name": "whimsicott",
+        "Type1": "Grass",
+        "Type2": "Fairy",
+        "Tags": [],
+        "FilePath": "Images/whimsicott.jpg",
+        "MainColor": "None"
     },
     "254": {
-        "Name": "doublade",
-        "Type1": "Steel",
-        "Type2": "Ghost",
-        "Tags": "",
-        "FilePath": "Images/doublade.png",
-        "MainColor": "[180.22667588 154.76572218 154.93538355 232.04941258]"
+        "Name": "sandile",
+        "Type1": "Ground",
+        "Type2": "Dark",
+        "Tags": [],
+        "FilePath": "Images/sandile.jpg",
+        "MainColor": "None"
     },
     "255": {
-        "Name": "aegislash-blade",
-        "Type1": "Steel",
-        "Type2": "Ghost",
-        "Tags": "",
-        "FilePath": "Images/aegislash-blade.png",
-        "MainColor": "[0.         0.         0.         0.04398448]"
+        "Name": "krokorok",
+        "Type1": "Ground",
+        "Type2": "Dark",
+        "Tags": [],
+        "FilePath": "Images/krokorok.png",
+        "MainColor": "[151.53357626 124.43466944 100.92399792 240.21238938]"
     },
     "256": {
-        "Name": "inkay",
-        "Type1": "Dark",
-        "Type2": "Psychic",
-        "Tags": "",
-        "FilePath": "Images/inkay.png",
-        "MainColor": "[181.53777417 179.79203899 192.41186028 237.44760357]"
+        "Name": "krookodile",
+        "Type1": "Ground",
+        "Type2": "Dark",
+        "Tags": [],
+        "FilePath": "Images/krookodile.png",
+        "MainColor": "[0. 0. 0. 0.]"
     },
     "257": {
-        "Name": "malamar",
-        "Type1": "Dark",
-        "Type2": "Psychic",
-        "Tags": "",
-        "FilePath": "Images/malamar.png",
-        "MainColor": "[0.00303897 0.00303897 0.00303897 0.04558455]"
+        "Name": "dwebble",
+        "Type1": "Bug",
+        "Type2": "Rock",
+        "Tags": [],
+        "FilePath": "Images/dwebble.jpg",
+        "MainColor": "None"
     },
     "258": {
-        "Name": "binacle",
-        "Type1": "Rock",
-        "Type2": "Water",
-        "Tags": "",
-        "FilePath": "Images/binacle.png",
+        "Name": "crustle",
+        "Type1": "Bug",
+        "Type2": "Rock",
+        "Tags": [],
+        "FilePath": "Images/crustle.png",
         "MainColor": "[0. 0. 0. 0.]"
     },
     "259": {
-        "Name": "barbaracle",
-        "Type1": "Rock",
-        "Type2": "Water",
-        "Tags": "",
-        "FilePath": "Images/barbaracle.png",
-        "MainColor": "[0.0273374  0.0273374  0.02408537 0.03109756]"
+        "Name": "scraggy",
+        "Type1": "Dark",
+        "Type2": "Fighting",
+        "Tags": [],
+        "FilePath": "Images/scraggy.png",
+        "MainColor": "[214.79374535 187.3655994  127.1384959  237.34177215]"
     },
     "260": {
-        "Name": "skrelp",
-        "Type1": "Poison",
-        "Type2": "Water",
-        "Tags": "",
-        "FilePath": "Images/skrelp.png",
+        "Name": "scrafty",
+        "Type1": "Dark",
+        "Type2": "Fighting",
+        "Tags": [],
+        "FilePath": "Images/scrafty.png",
         "MainColor": "[0. 0. 0. 0.]"
     },
     "261": {
-        "Name": "dragalge",
-        "Type1": "Poison",
-        "Type2": "Dragon",
-        "Tags": "",
-        "FilePath": "Images/dragalge.png",
-        "MainColor": "[162.83890455 121.13370922 120.0052356  221.34917439]"
+        "Name": "sigilyph",
+        "Type1": "Psychic",
+        "Type2": "Flying",
+        "Tags": [],
+        "FilePath": "Images/sigilyph.png",
+        "MainColor": "[0. 0. 0. 0.]"
     },
     "262": {
-        "Name": "helioptile",
-        "Type1": "Electric",
-        "Type2": "Normal",
-        "Tags": "",
-        "FilePath": "Images/helioptile.png",
-        "MainColor": "[0.         0.         0.         0.05946366]"
+        "Name": "tirtouga",
+        "Type1": "Water",
+        "Type2": "Rock",
+        "Tags": [],
+        "FilePath": "Images/tirtouga.jpg",
+        "MainColor": "None"
     },
     "263": {
-        "Name": "heliolisk",
-        "Type1": "Electric",
-        "Type2": "Normal",
-        "Tags": "",
-        "FilePath": "Images/heliolisk.png",
+        "Name": "carracosta",
+        "Type1": "Water",
+        "Type2": "Rock",
+        "Tags": [],
+        "FilePath": "Images/carracosta.png",
         "MainColor": "[0. 0. 0. 0.]"
     },
     "264": {
-        "Name": "tyrantrum",
+        "Name": "archen",
         "Type1": "Rock",
-        "Type2": "Dragon",
-        "Tags": "",
-        "FilePath": "Images/tyrantrum.png",
+        "Type2": "Flying",
+        "Tags": [],
+        "FilePath": "Images/archen.png",
         "MainColor": "[0. 0. 0. 0.]"
     },
     "265": {
-        "Name": "amaura",
+        "Name": "archeops",
         "Type1": "Rock",
-        "Type2": "Ice",
-        "Tags": "",
-        "FilePath": "Images/amaura.png",
-        "MainColor": "[164.82973316 197.37166455 209.10864041 236.55273189]"
-    },
-    "266": {
-        "Name": "aurorus",
-        "Type1": "Rock",
-        "Type2": "Ice",
-        "Tags": "",
-        "FilePath": "Images/aurorus.png",
-        "MainColor": "[174.98893949 195.30709174 206.69128172 236.18054652]"
-    },
-    "267": {
-        "Name": "hawlucha",
-        "Type1": "Fighting",
         "Type2": "Flying",
-        "Tags": "",
-        "FilePath": "Images/hawlucha.png",
+        "Tags": [],
+        "FilePath": "Images/archeops.png",
         "MainColor": "[0. 0. 0. 0.]"
     },
+    "266": {
+        "Name": "ducklett",
+        "Type1": "Water",
+        "Type2": "Flying",
+        "Tags": [],
+        "FilePath": "Images/ducklett.png",
+        "MainColor": "[160.36579926 191.19851301 183.44460967 239.50408922]"
+    },
+    "267": {
+        "Name": "swanna",
+        "Type1": "Water",
+        "Type2": "Flying",
+        "Tags": [],
+        "FilePath": "Images/swanna.png",
+        "MainColor": "[192.93770992 204.48427481 213.0048855  231.2       ]"
+    },
     "268": {
-        "Name": "dedenne",
-        "Type1": "Electric",
-        "Type2": "Fairy",
-        "Tags": "",
-        "FilePath": "Images/dedenne.png",
-        "MainColor": "[166.29540781 145.44619602  99.01782042 231.91775188]"
+        "Name": "deerling",
+        "Type1": "Normal",
+        "Type2": "Grass",
+        "Tags": [],
+        "FilePath": "Images/deerling.png",
+        "MainColor": "[201.61322082 170.9416315  142.76863572 233.50492264]"
     },
     "269": {
-        "Name": "klefki",
-        "Type1": "Steel",
-        "Type2": "Fairy",
-        "Tags": "",
-        "FilePath": "Images/klefki.png",
-        "MainColor": "[170.74362819 165.21664168 158.06671664 218.94827586]"
+        "Name": "sawsbuck",
+        "Type1": "Normal",
+        "Type2": "Grass",
+        "Tags": [],
+        "FilePath": "Images/sawsbuck.png",
+        "MainColor": "[0. 0. 0. 0.]"
     },
     "270": {
-        "Name": "phantump",
-        "Type1": "Ghost",
-        "Type2": "Grass",
-        "Tags": "",
-        "FilePath": "Images/phantump.png",
+        "Name": "emolga",
+        "Type1": "Electric",
+        "Type2": "Flying",
+        "Tags": [],
+        "FilePath": "Images/emolga.png",
         "MainColor": "[0. 0. 0. 0.]"
     },
     "271": {
-        "Name": "trevenant",
-        "Type1": "Ghost",
-        "Type2": "Grass",
-        "Tags": "",
-        "FilePath": "Images/trevenant.png",
-        "MainColor": "[121.30589431 122.97637195 102.33943089 231.50838415]"
+        "Name": "escavalier",
+        "Type1": "Bug",
+        "Type2": "Steel",
+        "Tags": [],
+        "FilePath": "Images/escavalier.png",
+        "MainColor": "[197.19146919 152.84012638 145.58830964 242.83949447]"
     },
     "272": {
-        "Name": "gourgeist-average",
-        "Type1": "Ghost",
-        "Type2": "Grass",
-        "Tags": "",
-        "FilePath": "Images/gourgeist-average.png",
-        "MainColor": "[0. 0. 0. 0.]"
+        "Name": "foongus",
+        "Type1": "Grass",
+        "Type2": "Poison",
+        "Tags": [],
+        "FilePath": "Images/foongus.jpg",
+        "MainColor": "None"
     },
     "273": {
-        "Name": "noibat",
-        "Type1": "Flying",
-        "Type2": "Dragon",
-        "Tags": "",
-        "FilePath": "Images/noibat.png",
-        "MainColor": "[167.68873329 139.4188415  165.26098027 232.28644176]"
+        "Name": "amoonguss",
+        "Type1": "Grass",
+        "Type2": "Poison",
+        "Tags": [],
+        "FilePath": "Images/amoonguss.png",
+        "MainColor": "[162.63335287 135.97450176 130.62397421 245.51846424]"
     },
     "274": {
-        "Name": "noivern",
-        "Type1": "Flying",
-        "Type2": "Dragon",
-        "Tags": "",
-        "FilePath": "Images/noivern.png",
-        "MainColor": "[102.38157303 116.37797753 121.86292135 228.21258427]"
+        "Name": "frillish",
+        "Type1": "Water",
+        "Type2": "Ghost",
+        "Tags": [],
+        "FilePath": "Images/frillish.png",
+        "MainColor": "[0.00136502 0.00136502 0.00136502 0.02047535]"
     },
     "275": {
-        "Name": "yveltal",
-        "Type1": "Dark",
-        "Type2": "Flying",
-        "Tags": "",
-        "FilePath": "Images/yveltal.png",
-        "MainColor": "[0.54207037 0.41121877 0.44722081 0.51840898]"
+        "Name": "jellicent",
+        "Type1": "Water",
+        "Type2": "Ghost",
+        "Tags": [],
+        "FilePath": "Images/jellicent.png",
+        "MainColor": "[0.00968385 0.01452578 0.01775373 0.07262888]"
     },
     "276": {
-        "Name": "zygarde-50",
-        "Type1": "Dragon",
-        "Type2": "Ground",
-        "Tags": "",
-        "FilePath": "Images/zygarde-50.png",
-        "MainColor": "[0. 0. 0. 0.]"
+        "Name": "joltik",
+        "Type1": "Bug",
+        "Type2": "Electric",
+        "Tags": [],
+        "FilePath": "Images/joltik.png",
+        "MainColor": "[0.00250516 0.00626289 0.0175361  0.13152078]"
     },
     "277": {
-        "Name": "diancie",
-        "Type1": "Rock",
-        "Type2": "Fairy",
-        "Tags": "",
-        "FilePath": "Images/diancie.png",
-        "MainColor": "[0.00138662 0.00277325 0.00554649 0.10399674]"
+        "Name": "galvantula",
+        "Type1": "Bug",
+        "Type2": "Electric",
+        "Tags": [],
+        "FilePath": "Images/galvantula.png",
+        "MainColor": "[188.6574508  177.25820056 123.70852858 236.63776945]"
     },
     "278": {
-        "Name": "hoopa-confined",
-        "Type1": "Psychic",
-        "Type2": "Ghost",
-        "Tags": "",
-        "FilePath": "Images/hoopa-confined.png",
+        "Name": "ferroseed",
+        "Type1": "Grass",
+        "Type2": "Steel",
+        "Tags": [],
+        "FilePath": "Images/ferroseed.png",
         "MainColor": "[0. 0. 0. 0.]"
     },
     "279": {
+        "Name": "ferrothorn",
+        "Type1": "Grass",
+        "Type2": "Steel",
+        "Tags": [],
+        "FilePath": "Images/ferrothorn.png",
+        "MainColor": "[133.58515043 166.80458184 137.50786641 235.21280707]"
+    },
+    "280": {
+        "Name": "litwick",
+        "Type1": "Ghost",
+        "Type2": "Fire",
+        "Tags": [],
+        "FilePath": "Images/litwick.png",
+        "MainColor": "[199.45912807 203.57288828 218.63896458 242.36580381]"
+    },
+    "281": {
+        "Name": "lampent",
+        "Type1": "Ghost",
+        "Type2": "Fire",
+        "Tags": [],
+        "FilePath": "Images/lampent.jpg",
+        "MainColor": "None"
+    },
+    "282": {
+        "Name": "chandelure",
+        "Type1": "Ghost",
+        "Type2": "Fire",
+        "Tags": [],
+        "FilePath": "Images/chandelure.png",
+        "MainColor": "[0.00651607 0.00651607 0.01172893 0.00147698]"
+    },
+    "283": {
+        "Name": "stunfisk",
+        "Type1": "Ground",
+        "Type2": "Electric",
+        "Tags": [],
+        "FilePath": "Images/stunfisk.png",
+        "MainColor": "[185.3283818  149.56826802 105.26485461 245.62958281]"
+    },
+    "284": {
+        "Name": "golett",
+        "Type1": "Ground",
+        "Type2": "Ghost",
+        "Tags": [],
+        "FilePath": "Images/golett.png",
+        "MainColor": "[108.49390244 149.69860627 143.05705575 245.21167247]"
+    },
+    "285": {
+        "Name": "golurk",
+        "Type1": "Ground",
+        "Type2": "Ghost",
+        "Tags": [],
+        "FilePath": "Images/golurk.png",
+        "MainColor": "[118.72192 160.72096 151.81872 244.03568]"
+    },
+    "286": {
+        "Name": "pawniard",
+        "Type1": "Dark",
+        "Type2": "Steel",
+        "Tags": [],
+        "FilePath": "Images/pawniard.png",
+        "MainColor": "[0. 0. 0. 0.]"
+    },
+    "287": {
+        "Name": "bisharp",
+        "Type1": "Dark",
+        "Type2": "Steel",
+        "Tags": [],
+        "FilePath": "Images/bisharp.png",
+        "MainColor": "[162.61471683 126.92104175 120.61223646 239.05415461]"
+    },
+    "288": {
+        "Name": "rufflet",
+        "Type1": "Normal",
+        "Type2": "Flying",
+        "Tags": [],
+        "FilePath": "Images/rufflet.png",
+        "MainColor": "[0.02799122 0.0266583  0.03065705 0.33989337]"
+    },
+    "289": {
+        "Name": "braviary",
+        "Type1": "Normal",
+        "Type2": "Flying",
+        "Tags": [],
+        "FilePath": "Images/braviary.png",
+        "MainColor": "[0.46006589 0.37129374 0.4442169  0.36176654]"
+    },
+    "290": {
+        "Name": "vullaby",
+        "Type1": "Dark",
+        "Type2": "Flying",
+        "Tags": [],
+        "FilePath": "Images/vullaby.jpg",
+        "MainColor": "None"
+    },
+    "291": {
+        "Name": "mandibuzz",
+        "Type1": "Dark",
+        "Type2": "Flying",
+        "Tags": [],
+        "FilePath": "Images/mandibuzz.png",
+        "MainColor": "[152.44935897 131.59647436 120.40384615 239.92339744]"
+    },
+    "292": {
+        "Name": "durant",
+        "Type1": "Bug",
+        "Type2": "Steel",
+        "Tags": [],
+        "FilePath": "Images/durant.jpg",
+        "MainColor": "None"
+    },
+    "293": {
+        "Name": "deino",
+        "Type1": "Dark",
+        "Type2": "Dragon",
+        "Tags": [],
+        "FilePath": "Images/deino.jpg",
+        "MainColor": "None"
+    },
+    "294": {
+        "Name": "zweilous",
+        "Type1": "Dark",
+        "Type2": "Dragon",
+        "Tags": [],
+        "FilePath": "Images/zweilous.png",
+        "MainColor": "[101.51362007 102.73799283 110.4688172  238.45089606]"
+    },
+    "295": {
+        "Name": "hydreigon",
+        "Type1": "Dark",
+        "Type2": "Dragon",
+        "Tags": [],
+        "FilePath": "Images/hydreigon.png",
+        "MainColor": "[0. 0. 0. 0.]"
+    },
+    "296": {
+        "Name": "larvesta",
+        "Type1": "Bug",
+        "Type2": "Fire",
+        "Tags": [],
+        "FilePath": "Images/larvesta.png",
+        "MainColor": "[0.14390519 0.10415995 0.08771364 1.27184779]"
+    },
+    "297": {
+        "Name": "volcarona",
+        "Type1": "Bug",
+        "Type2": "Fire",
+        "Tags": [],
+        "FilePath": "Images/volcarona.png",
+        "MainColor": "[0.00298115 0.00149057 0.00298115 0.26830338]"
+    },
+    "298": {
+        "Name": "cobalion",
+        "Type1": "Steel",
+        "Type2": "Fighting",
+        "Tags": [],
+        "FilePath": "Images/cobalion.png",
+        "MainColor": "[112.73498965 159.66839199 161.23015873 239.43133195]"
+    },
+    "299": {
+        "Name": "terrakion",
+        "Type1": "Rock",
+        "Type2": "Fighting",
+        "Tags": [],
+        "FilePath": "Images/terrakion.png",
+        "MainColor": "[0.         0.         0.         0.02503155]"
+    },
+    "300": {
+        "Name": "virizion",
+        "Type1": "Grass",
+        "Type2": "Fighting",
+        "Tags": [],
+        "FilePath": "Images/virizion.png",
+        "MainColor": "[159.85090522 179.31558395 109.04082357 236.85942492]"
+    },
+    "301": {
+        "Name": "thundurus-incarnate",
+        "Type1": "Electric",
+        "Type2": "Flying",
+        "Tags": [],
+        "FilePath": "Images/thundurus-incarnate.png",
+        "MainColor": "[157.0173445  166.03229665 174.63666268 239.79455742]"
+    },
+    "302": {
+        "Name": "reshiram",
+        "Type1": "Dragon",
+        "Type2": "Fire",
+        "Tags": [],
+        "FilePath": "Images/reshiram.png",
+        "MainColor": "[202.4197479  202.95714286 214.16785714 233.06428571]"
+    },
+    "303": {
+        "Name": "zekrom",
+        "Type1": "Dragon",
+        "Type2": "Electric",
+        "Tags": [],
+        "FilePath": "Images/zekrom.png",
+        "MainColor": "[ 73.96539504  87.00083385  87.4980196  238.808005  ]"
+    },
+    "304": {
+        "Name": "landorus-incarnate",
+        "Type1": "Ground",
+        "Type2": "Flying",
+        "Tags": [],
+        "FilePath": "Images/landorus-incarnate.png",
+        "MainColor": "[183.30404218 159.70620972 149.34065612 243.29818395]"
+    },
+    "305": {
+        "Name": "kyurem",
+        "Type1": "Dragon",
+        "Type2": "Ice",
+        "Tags": [],
+        "FilePath": "Images/kyurem.png",
+        "MainColor": "[0.00904656 0.00452328 0.00452328 0.13569845]"
+    },
+    "306": {
+        "Name": "keldeo-ordinary",
+        "Type1": "Water",
+        "Type2": "Fighting",
+        "Tags": [],
+        "FilePath": "Images/keldeo-ordinary.png",
+        "MainColor": "[0.         0.0013864  0.00277279 0.02079595]"
+    },
+    "307": {
+        "Name": "meloetta-aria",
+        "Type1": "Normal",
+        "Type2": "Psychic",
+        "Tags": [],
+        "FilePath": "Images/meloetta-aria.jpg",
+        "MainColor": "None"
+    },
+    "308": {
+        "Name": "genesect",
+        "Type1": "Bug",
+        "Type2": "Steel",
+        "Tags": [],
+        "FilePath": "Images/genesect.png",
+        "MainColor": "[0.         0.         0.         0.13172622]"
+    },
+    "309": {
+        "Name": "chesnaught",
+        "Type1": "Grass",
+        "Type2": "Fighting",
+        "Tags": [],
+        "FilePath": "Images/chesnaught.png",
+        "MainColor": "[0.54439746 0.42336152 0.28773784 0.58403805]"
+    },
+    "310": {
+        "Name": "delphox",
+        "Type1": "Fire",
+        "Type2": "Psychic",
+        "Tags": [],
+        "FilePath": "Images/delphox.png",
+        "MainColor": "[0. 0. 0. 0.]"
+    },
+    "311": {
+        "Name": "greninja",
+        "Type1": "Water",
+        "Type2": "Dark",
+        "Tags": [],
+        "FilePath": "Images/greninja.png",
+        "MainColor": "[0.02680324 0.07528809 0.12010243 0.0609475 ]"
+    },
+    "312": {
+        "Name": "diggersby",
+        "Type1": "Normal",
+        "Type2": "Ground",
+        "Tags": [],
+        "FilePath": "Images/diggersby.png",
+        "MainColor": "[157.77711942 138.61531449 109.22151322 241.54102097]"
+    },
+    "313": {
+        "Name": "fletchling",
+        "Type1": "Normal",
+        "Type2": "Flying",
+        "Tags": [],
+        "FilePath": "Images/fletchling.png",
+        "MainColor": "[165.04241071 129.38950893 117.578125   230.18303571]"
+    },
+    "314": {
+        "Name": "fletchinder",
+        "Type1": "Fire",
+        "Type2": "Flying",
+        "Tags": [],
+        "FilePath": "Images/fletchinder.png",
+        "MainColor": "[154.56448203 124.72586328 105.40732911 231.96194503]"
+    },
+    "315": {
+        "Name": "talonflame",
+        "Type1": "Fire",
+        "Type2": "Flying",
+        "Tags": [],
+        "FilePath": "Images/talonflame.png",
+        "MainColor": "[0.08537536 0.08450948 0.0829509  0.11481514]"
+    },
+    "316": {
+        "Name": "vivillon",
+        "Type1": "Bug",
+        "Type2": "Flying",
+        "Tags": [],
+        "FilePath": "Images/vivillon.png",
+        "MainColor": "[169.89132841 108.52675277 136.59354244 245.11678967]"
+    },
+    "317": {
+        "Name": "litleo",
+        "Type1": "Fire",
+        "Type2": "Normal",
+        "Tags": [],
+        "FilePath": "Images/litleo.jpg",
+        "MainColor": "None"
+    },
+    "318": {
+        "Name": "pyroar",
+        "Type1": "Fire",
+        "Type2": "Normal",
+        "Tags": [],
+        "FilePath": "Images/pyroar.png",
+        "MainColor": "[198.93336873 123.33395275  90.58083355 243.78550571]"
+    },
+    "319": {
+        "Name": "pangoro",
+        "Type1": "Fighting",
+        "Type2": "Dark",
+        "Tags": [],
+        "FilePath": "Images/pangoro.jpg",
+        "MainColor": "None"
+    },
+    "320": {
+        "Name": "honedge",
+        "Type1": "Steel",
+        "Type2": "Ghost",
+        "Tags": [],
+        "FilePath": "Images/honedge.png",
+        "MainColor": "[0. 0. 0. 0.]"
+    },
+    "321": {
+        "Name": "doublade",
+        "Type1": "Steel",
+        "Type2": "Ghost",
+        "Tags": [],
+        "FilePath": "Images/doublade.png",
+        "MainColor": "[180.22667588 154.76572218 154.93538355 232.04941258]"
+    },
+    "322": {
+        "Name": "aegislash-blade",
+        "Type1": "Steel",
+        "Type2": "Ghost",
+        "Tags": [],
+        "FilePath": "Images/aegislash-blade.png",
+        "MainColor": "[0.         0.         0.         0.04398448]"
+    },
+    "323": {
+        "Name": "inkay",
+        "Type1": "Dark",
+        "Type2": "Psychic",
+        "Tags": [],
+        "FilePath": "Images/inkay.png",
+        "MainColor": "[0.00129091 0.00258182 0.00258182 0.01936366]"
+    },
+    "324": {
+        "Name": "malamar",
+        "Type1": "Dark",
+        "Type2": "Psychic",
+        "Tags": [],
+        "FilePath": "Images/malamar.png",
+        "MainColor": "[165.09246575 176.624533   192.91562889 237.01027397]"
+    },
+    "325": {
+        "Name": "binacle",
+        "Type1": "Rock",
+        "Type2": "Water",
+        "Tags": [],
+        "FilePath": "Images/binacle.png",
+        "MainColor": "[0. 0. 0. 0.]"
+    },
+    "326": {
+        "Name": "barbaracle",
+        "Type1": "Rock",
+        "Type2": "Water",
+        "Tags": [],
+        "FilePath": "Images/barbaracle.png",
+        "MainColor": "[152.59473684 148.54276316 136.13048246 237.26929825]"
+    },
+    "327": {
+        "Name": "skrelp",
+        "Type1": "Poison",
+        "Type2": "Water",
+        "Tags": [],
+        "FilePath": "Images/skrelp.png",
+        "MainColor": "[0. 0. 0. 0.]"
+    },
+    "328": {
+        "Name": "dragalge",
+        "Type1": "Poison",
+        "Type2": "Dragon",
+        "Tags": [],
+        "FilePath": "Images/dragalge.png",
+        "MainColor": "[0.10682219 0.08231938 0.06184442 0.06276748]"
+    },
+    "329": {
+        "Name": "helioptile",
+        "Type1": "Electric",
+        "Type2": "Normal",
+        "Tags": [],
+        "FilePath": "Images/helioptile.png",
+        "MainColor": "[165.23192182 162.68469055 117.8762215  236.95895765]"
+    },
+    "330": {
+        "Name": "heliolisk",
+        "Type1": "Electric",
+        "Type2": "Normal",
+        "Tags": [],
+        "FilePath": "Images/heliolisk.png",
+        "MainColor": "[169.80731707 152.82012195 105.26341463 234.07134146]"
+    },
+    "331": {
+        "Name": "tyrunt",
+        "Type1": "Rock",
+        "Type2": "Dragon",
+        "Tags": [],
+        "FilePath": "Images/tyrunt.jpg",
+        "MainColor": "None"
+    },
+    "332": {
+        "Name": "tyrantrum",
+        "Type1": "Rock",
+        "Type2": "Dragon",
+        "Tags": [],
+        "FilePath": "Images/tyrantrum.png",
+        "MainColor": "[0. 0. 0. 0.]"
+    },
+    "333": {
+        "Name": "amaura",
+        "Type1": "Rock",
+        "Type2": "Ice",
+        "Tags": [],
+        "FilePath": "Images/amaura.png",
+        "MainColor": "[0.01333229 0.01317636 0.01582723 0.08482769]"
+    },
+    "334": {
+        "Name": "aurorus",
+        "Type1": "Rock",
+        "Type2": "Ice",
+        "Tags": [],
+        "FilePath": "Images/aurorus.png",
+        "MainColor": "[0.07089882 0.07239979 0.07054565 0.06153982]"
+    },
+    "335": {
+        "Name": "hawlucha",
+        "Type1": "Fighting",
+        "Type2": "Flying",
+        "Tags": [],
+        "FilePath": "Images/hawlucha.png",
+        "MainColor": "[146.96389452 155.05679513 137.18661258 237.42758621]"
+    },
+    "336": {
+        "Name": "dedenne",
+        "Type1": "Electric",
+        "Type2": "Fairy",
+        "Tags": [],
+        "FilePath": "Images/dedenne.png",
+        "MainColor": "[0. 0. 0. 0.]"
+    },
+    "337": {
+        "Name": "carbink",
+        "Type1": "Rock",
+        "Type2": "Fairy",
+        "Tags": [],
+        "FilePath": "Images/carbink.jpg",
+        "MainColor": "None"
+    },
+    "338": {
+        "Name": "klefki",
+        "Type1": "Steel",
+        "Type2": "Fairy",
+        "Tags": [],
+        "FilePath": "Images/klefki.png",
+        "MainColor": "[0.00910761 0.01301087 0.01040869 0.21467932]"
+    },
+    "339": {
+        "Name": "phantump",
+        "Type1": "Ghost",
+        "Type2": "Grass",
+        "Tags": [],
+        "FilePath": "Images/phantump.png",
+        "MainColor": "[0. 0. 0. 0.]"
+    },
+    "340": {
+        "Name": "trevenant",
+        "Type1": "Ghost",
+        "Type2": "Grass",
+        "Tags": [],
+        "FilePath": "Images/trevenant.png",
+        "MainColor": "[121.30589431 122.97637195 102.33943089 231.50838415]"
+    },
+    "341": {
+        "Name": "pumpkaboo-average",
+        "Type1": "Ghost",
+        "Type2": "Grass",
+        "Tags": [],
+        "FilePath": "Images/pumpkaboo-average.jpg",
+        "MainColor": "None"
+    },
+    "342": {
+        "Name": "gourgeist-average",
+        "Type1": "Ghost",
+        "Type2": "Grass",
+        "Tags": [],
+        "FilePath": "Images/gourgeist-average.png",
+        "MainColor": "[177.67608286 138.36958569 109.68173258 241.92984934]"
+    },
+    "343": {
+        "Name": "noibat",
+        "Type1": "Flying",
+        "Type2": "Dragon",
+        "Tags": [],
+        "FilePath": "Images/noibat.png",
+        "MainColor": "[0.00662561 0.         0.         0.17889157]"
+    },
+    "344": {
+        "Name": "noivern",
+        "Type1": "Flying",
+        "Type2": "Dragon",
+        "Tags": [],
+        "FilePath": "Images/noivern.png",
+        "MainColor": "[102.38157303 116.37797753 121.86292135 228.21258427]"
+    },
+    "345": {
+        "Name": "yveltal",
+        "Type1": "Dark",
+        "Type2": "Flying",
+        "Tags": [],
+        "FilePath": "Images/yveltal.png",
+        "MainColor": "[0.54207037 0.41121877 0.44722081 0.51840898]"
+    },
+    "346": {
+        "Name": "zygarde-50",
+        "Type1": "Dragon",
+        "Type2": "Ground",
+        "Tags": [],
+        "FilePath": "Images/zygarde-50.png",
+        "MainColor": "[106.39691856 117.30154072  74.39960871 239.42602103]"
+    },
+    "347": {
+        "Name": "diancie",
+        "Type1": "Rock",
+        "Type2": "Fairy",
+        "Tags": [],
+        "FilePath": "Images/diancie.png",
+        "MainColor": "[173.7        149.00607477 170.45046729 240.97102804]"
+    },
+    "348": {
+        "Name": "hoopa-confined",
+        "Type1": "Psychic",
+        "Type2": "Ghost",
+        "Tags": [],
+        "FilePath": "Images/hoopa-confined.png",
+        "MainColor": "[0. 0. 0. 0.]"
+    },
+    "349": {
         "Name": "volcanion",
         "Type1": "Fire",
         "Type2": "Water",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/volcanion.png",
-        "MainColor": "[175.49264706 104.60801217  95.95182556 241.67672414]"
+        "MainColor": "[0. 0. 0. 0.]"
     },
-    "280": {
+    "350": {
         "Name": "rowlet",
         "Type1": "Grass",
         "Type2": "Flying",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/rowlet.jpg",
-        "MainColor": "[254.56039326 254.472945   254.27232407]"
+        "MainColor": "[163.1819222  161.73684211 138.00800915]"
     },
-    "281": {
+    "351": {
         "Name": "dartrix",
         "Type1": "Grass",
         "Type2": "Flying",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/dartrix.jpg",
-        "MainColor": "[156.63478261 145.95217391 122.93130435]"
+        "MainColor": "[253.42430864 253.15869188 252.7578178 ]"
     },
-    "282": {
+    "352": {
         "Name": "decidueye",
         "Type1": "Grass",
         "Type2": "Ghost",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/decidueye.jpg",
-        "MainColor": "[253.53889675 253.57885431 252.62402758]"
+        "MainColor": "[253.5105556  253.54571151 252.57459588]"
     },
-    "283": {
+    "353": {
         "Name": "incineroar",
         "Type1": "Fire",
         "Type2": "Dark",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/incineroar.jpg",
         "MainColor": "[253.70382194 253.34823091 253.02695752]"
     },
-    "284": {
+    "354": {
         "Name": "primarina",
         "Type1": "Water",
         "Type2": "Fairy",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/primarina.jpg",
-        "MainColor": "[ 91.76057323 136.06920657 182.76686473]"
+        "MainColor": "[ 92.79316298 136.88225138 183.11498619]"
     },
-    "285": {
+    "355": {
         "Name": "pikipek",
         "Type1": "Normal",
         "Type2": "Flying",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/pikipek.jpg",
-        "MainColor": "[254.59688978 254.52938226 254.51139458]"
+        "MainColor": "[133.66591928 110.31838565 106.57847534]"
     },
-    "286": {
+    "356": {
         "Name": "trumbeak",
         "Type1": "Normal",
         "Type2": "Flying",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/trumbeak.jpg",
-        "MainColor": "[113.10463122 107.52744425 106.18267581]"
+        "MainColor": "[112.74396552 107.1362069  105.78534483]"
     },
-    "287": {
+    "357": {
         "Name": "toucannon",
         "Type1": "Normal",
         "Type2": "Flying",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/toucannon.jpg",
-        "MainColor": "[253.02868133 252.54695209 250.67246425]"
+        "MainColor": "[119.52653061  99.28734694  92.72163265]"
     },
-    "288": {
+    "358": {
         "Name": "charjabug",
         "Type1": "Bug",
         "Type2": "Electric",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/charjabug.jpg",
         "MainColor": "[106.02801993 128.65193026  82.30821918]"
     },
-    "289": {
+    "359": {
         "Name": "vikavolt",
         "Type1": "Bug",
         "Type2": "Electric",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/vikavolt.jpg",
-        "MainColor": "[252.58824 252.99288 252.21936]"
+        "MainColor": "[252.55657737 252.96385446 252.19192323]"
     },
-    "290": {
+    "360": {
         "Name": "crabominable",
         "Type1": "Fighting",
         "Type2": "Ice",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/crabominable.jpg",
-        "MainColor": "[250.14624956 250.24483    251.01691202]"
+        "MainColor": "[121.8235688  136.81955139 160.14060931]"
     },
-    "291": {
+    "361": {
         "Name": "oricorio-baile",
         "Type1": "Fire",
         "Type2": "Flying",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/oricorio-baile.jpg",
         "MainColor": "[254.22106003 254.08039966 254.08508313]"
     },
-    "292": {
+    "362": {
         "Name": "cutiefly",
         "Type1": "Bug",
         "Type2": "Fairy",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/cutiefly.jpg",
-        "MainColor": "[161.11196911 156.10810811 131.88803089]"
+        "MainColor": "[254.50918786 254.46465374 254.24212726]"
     },
-    "293": {
+    "363": {
         "Name": "ribombee",
         "Type1": "Bug",
         "Type2": "Fairy",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/ribombee.jpg",
-        "MainColor": "[162.4922449  152.19673469 131.80489796]"
+        "MainColor": "[253.09199241 252.89480076 252.62732448]"
     },
-    "294": {
+    "364": {
         "Name": "mareanie",
         "Type1": "Poison",
         "Type2": "Water",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/mareanie.jpg",
-        "MainColor": "[253.56924954 254.37843197 254.4257169 ]"
+        "MainColor": "[253.1457275  254.24285389 254.31458033]"
     },
-    "295": {
+    "365": {
         "Name": "toxapex",
         "Type1": "Poison",
         "Type2": "Water",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/toxapex.jpg",
-        "MainColor": "[249.41760027 251.97571196 251.4997862 ]"
+        "MainColor": "[249.32146516 251.88703893 251.39463798]"
     },
-    "296": {
+    "366": {
         "Name": "dewpider",
         "Type1": "Water",
         "Type2": "Bug",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/dewpider.jpg",
-        "MainColor": "[254.0918844  254.19989783 254.00291928]"
+        "MainColor": "[121.64511494 146.60201149 126.22701149]"
     },
-    "297": {
+    "367": {
         "Name": "araquanid",
         "Type1": "Water",
         "Type2": "Bug",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/araquanid.jpg",
-        "MainColor": "[249.96801706 251.90880761 252.10923405]"
+        "MainColor": "[251.01998996 252.74054868 252.86584142]"
     },
-    "298": {
+    "368": {
         "Name": "morelull",
         "Type1": "Grass",
         "Type2": "Fairy",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/morelull.jpg",
-        "MainColor": "[170.14382403 160.69712352 162.642978  ]"
+        "MainColor": "[172.57673667 162.56219709 164.98869144]"
     },
-    "299": {
+    "369": {
         "Name": "shiinotic",
         "Type1": "Grass",
         "Type2": "Fairy",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/shiinotic.jpg",
-        "MainColor": "[170.54293442 166.03042596 137.45503719]"
+        "MainColor": "[253.436695   251.29562779 251.76921055]"
     },
-    "300": {
+    "370": {
         "Name": "salandit",
         "Type1": "Poison",
         "Type2": "Fire",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/salandit.jpg",
-        "MainColor": "[254.23576378 254.22740283 254.2175354 ]"
+        "MainColor": "[97.66637011 95.02046263 96.03024911]"
     },
-    "301": {
+    "371": {
         "Name": "salazzle",
         "Type1": "Poison",
         "Type2": "Fire",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/salazzle.jpg",
         "MainColor": "[253.63385796 253.61913711 253.66697988]"
     },
-    "302": {
+    "372": {
         "Name": "stufful",
         "Type1": "Normal",
         "Type2": "Fighting",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/stufful.jpg",
-        "MainColor": "[254.37628753 253.46307254 253.59763314]"
+        "MainColor": "[254.22924096 253.19329015 253.34786406]"
     },
-    "303": {
+    "373": {
         "Name": "bewear",
         "Type1": "Normal",
         "Type2": "Fighting",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/bewear.jpg",
-        "MainColor": "[252.86693253 250.25856596 250.73142346]"
+        "MainColor": "[86.4945575  86.28679602 81.69285376]"
     },
-    "304": {
+    "374": {
         "Name": "oranguru",
         "Type1": "Normal",
         "Type2": "Psychic",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/oranguru.jpg",
-        "MainColor": "[123.93192612 139.83746702 139.05804749]"
+        "MainColor": "[123.51804671 139.52016985 138.71019108]"
     },
-    "305": {
+    "375": {
         "Name": "wimpod",
         "Type1": "Bug",
         "Type2": "Water",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/wimpod.jpg",
         "MainColor": "[254.34234698 254.36990227 254.33676244]"
     },
-    "306": {
+    "376": {
         "Name": "golisopod",
         "Type1": "Bug",
         "Type2": "Water",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/golisopod.jpg",
-        "MainColor": "[250.3031938  251.71099121 250.80715342]"
+        "MainColor": "[135.67944732 142.86010363 139.73644214]"
     },
-    "307": {
+    "377": {
         "Name": "sandygast",
         "Type1": "Ghost",
         "Type2": "Ground",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/sandygast.jpg",
-        "MainColor": "[159.         152.57366771 133.40282132]"
+        "MainColor": "[254.25388865 254.22873964 253.62152929]"
     },
-    "308": {
+    "378": {
         "Name": "palossand",
         "Type1": "Ghost",
         "Type2": "Ground",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/palossand.jpg",
-        "MainColor": "[214.62160303 178.60887513 136.36119711]"
+        "MainColor": "[254.54537545 254.49116854 254.19098582]"
     },
-    "309": {
+    "379": {
         "Name": "minior-meteor",
         "Type1": "Rock",
         "Type2": "Flying",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/minior-meteor.jpg",
         "MainColor": "[254.59319899 254.5475626  254.54534005]"
     },
-    "310": {
+    "380": {
         "Name": "turtonator",
         "Type1": "Fire",
         "Type2": "Dragon",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/turtonator.jpg",
-        "MainColor": "[166.66636771 114.40986547  92.03856502]"
+        "MainColor": "[253.57537172 253.55927052 253.09496427]"
     },
-    "311": {
+    "381": {
         "Name": "togedemaru",
         "Type1": "Electric",
         "Type2": "Steel",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/togedemaru.jpg",
-        "MainColor": "[254.63115111 254.59282915 254.36362317]"
+        "MainColor": "[254.65417302 254.61473088 254.39696375]"
     },
-    "312": {
+    "382": {
         "Name": "mimikyu",
         "Type1": "Ghost",
         "Type2": "Fairy",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/mimikyu.jpg",
-        "MainColor": "[156.53576248 150.84480432 126.05937922]"
+        "MainColor": "[254.41789396 254.27731959 253.0685567 ]"
     },
-    "313": {
+    "383": {
         "Name": "bruxish",
         "Type1": "Water",
         "Type2": "Psychic",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/bruxish.jpg",
-        "MainColor": "[254.004851   254.29198429 254.22314622]"
+        "MainColor": "[178.94408602 142.03727599 162.89605735]"
     },
-    "314": {
+    "384": {
         "Name": "drampa",
         "Type1": "Normal",
         "Type2": "Dragon",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/drampa.jpg",
-        "MainColor": "[253.33621832 253.68631579 252.67594542]"
+        "MainColor": "[149.50582902 170.72992228 154.1126943 ]"
     },
-    "315": {
+    "385": {
         "Name": "dhelmise",
         "Type1": "Ghost",
         "Type2": "Grass",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/dhelmise.jpg",
-        "MainColor": "[ 82.80523732 121.64238953 103.27986907]"
+        "MainColor": "[253.48268652 253.69998327 253.12219806]"
     },
-    "316": {
+    "386": {
         "Name": "hakamo-o",
         "Type1": "Dragon",
         "Type2": "Fighting",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/hakamo-o.jpg",
-        "MainColor": "[146.63903061 144.30803571 124.43303571]"
+        "MainColor": "[253.8059295  253.78056182 253.11423236]"
     },
-    "317": {
+    "387": {
         "Name": "kommo-o",
         "Type1": "Dragon",
         "Type2": "Fighting",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/kommo-o.jpg",
-        "MainColor": "[135.18221666 131.07107076 113.6931747 ]"
+        "MainColor": "[253.38193018 253.18168021 252.40549951]"
     },
-    "318": {
+    "388": {
         "Name": "tapu-koko",
         "Type1": "Electric",
         "Type2": "Fairy",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/tapu-koko.jpg",
-        "MainColor": "[253.99947585 253.82370927 252.73512711]"
+        "MainColor": "[164.74838928 142.2380468   71.30044083]"
     },
-    "319": {
+    "389": {
         "Name": "tapu-lele",
         "Type1": "Psychic",
         "Type2": "Fairy",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/tapu-lele.jpg",
-        "MainColor": "[254.18802954 253.48837932 253.75219588]"
+        "MainColor": "[254.21706331 253.52558718 253.78729196]"
     },
-    "320": {
+    "390": {
         "Name": "tapu-bulu",
         "Type1": "Grass",
         "Type2": "Fairy",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/tapu-bulu.jpg",
-        "MainColor": "[155.76307248 111.1655247   82.34006491]"
+        "MainColor": "[253.86359336 253.67317451 253.06983745]"
     },
-    "321": {
+    "391": {
         "Name": "tapu-fini",
         "Type1": "Water",
         "Type2": "Fairy",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/tapu-fini.jpg",
         "MainColor": "[253.61101315 253.73292722 254.06773004]"
     },
-    "322": {
+    "392": {
         "Name": "solgaleo",
         "Type1": "Psychic",
         "Type2": "Steel",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/solgaleo.jpg",
-        "MainColor": "[249.1282718  249.93231063 249.98110591]"
+        "MainColor": "[249.09309777 249.89876158 249.9530614 ]"
     },
-    "323": {
+    "393": {
         "Name": "lunala",
         "Type1": "Psychic",
         "Type2": "Ghost",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/lunala.jpg",
-        "MainColor": "[250.62558652 249.77161735 243.66130422]"
+        "MainColor": "[ 98.36905358  86.24436655 139.67776665]"
     },
-    "324": {
+    "394": {
         "Name": "nihilego",
         "Type1": "Rock",
         "Type2": "Poison",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/nihilego.jpg",
-        "MainColor": "[253.9099537  254.23040123 254.39868827]"
+        "MainColor": "[168.25521558 180.81363004 195.82962448]"
     },
-    "325": {
+    "395": {
         "Name": "buzzwole",
         "Type1": "Bug",
         "Type2": "Fighting",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/buzzwole.jpg",
-        "MainColor": "[253.21608501 252.57744802 252.01172483]"
+        "MainColor": "[253.2203188  252.58537926 252.02253573]"
     },
-    "326": {
+    "396": {
         "Name": "pheromosa",
         "Type1": "Bug",
         "Type2": "Fighting",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/pheromosa.jpg",
-        "MainColor": "[253.04412876 252.93675382 252.68762279]"
+        "MainColor": "[252.93540363 252.8249039  252.56923193]"
     },
-    "327": {
+    "397": {
         "Name": "celesteela",
         "Type1": "Steel",
         "Type2": "Flying",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/celesteela.jpg",
-        "MainColor": "[108.98957323 143.18064985 124.86663434]"
+        "MainColor": "[108.85912072 143.07068254 124.77580763]"
     },
-    "328": {
+    "398": {
         "Name": "kartana",
         "Type1": "Grass",
         "Type2": "Steel",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/kartana.jpg",
-        "MainColor": "[166.4487395  145.05546218  95.07226891]"
+        "MainColor": "[253.15006439 253.03310355 252.64358761]"
     },
-    "329": {
+    "399": {
         "Name": "guzzlord",
         "Type1": "Dark",
         "Type2": "Dragon",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/guzzlord.jpg",
         "MainColor": "[63.43942731 85.04609817 85.41504091]"
     },
-    "330": {
+    "400": {
         "Name": "magearna",
         "Type1": "Steel",
         "Type2": "Fairy",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/magearna.jpg",
-        "MainColor": "[187.89391796 179.54384724 170.95756719]"
+        "MainColor": "[254.18063573 253.80843531 253.53713538]"
     },
-    "331": {
+    "401": {
         "Name": "marshadow",
         "Type1": "Fighting",
         "Type2": "Ghost",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/marshadow.jpg",
-        "MainColor": "[103.5831643  103.53651116 101.51926978]"
+        "MainColor": "[254.54487849 254.53884002 254.51282242]"
     },
-    "332": {
+    "402": {
         "Name": "naganadel",
         "Type1": "Poison",
         "Type2": "Dragon",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/naganadel.jpg",
-        "MainColor": "[150.28364042 116.74818537 173.14907873]"
+        "MainColor": "[253.60504402 253.01824094 253.72472044]"
     },
-    "333": {
+    "403": {
         "Name": "stakataka",
         "Type1": "Rock",
         "Type2": "Steel",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/stakataka.jpg",
-        "MainColor": "[253.76278437 253.78290881 253.67100914]"
+        "MainColor": "[110.30311133 113.91030627 115.75328148]"
     },
-    "334": {
+    "404": {
         "Name": "blacephalon",
         "Type1": "Fire",
         "Type2": "Ghost",
-        "Tags": "",
+        "Tags": [],
         "FilePath": "Images/blacephalon.jpg",
-        "MainColor": "[149.19030303 152.84363636 155.79515152]"
+        "MainColor": "[148.76585366 152.62195122 155.47439024]"
     }
 }

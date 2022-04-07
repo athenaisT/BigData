@@ -1,5 +1,9 @@
 #import matplotlib.pyplot as plt
 import os
+from src import user as user
+from src import image as image
+import matplotlib.pyplot as plt
+
 
 #display
 #- generation et affcihage des courbes
@@ -8,32 +12,52 @@ import os
 
 #trace courbe/cambert etc des préférence de l'user sur la couleur
 def DisplayStatCouleur():
+    user.getImg_pref(1)
     print()
 
-    # labels = 'Allemagne', 'France', 'Belgique', 'Espagne'
-    # sizes = [15, 80, 45, 40]
-    # colors = ['yellowgreen', 'gold', 'lightskyblue', 'lightcoral']
-
-    # plt.pie(sizes, labels=labels, colors=colors, 
-    #     autopct='%1.1f%%', shadow=True, startangle=90)
-
-    # plt.axis('equal')
-
-    # plt.savefig('PieChart01.png')
-    # plt.show()
+    
 
 
 #trace courbe/cambert etc des préférence de l'user sur le type1
-def DisplayStatType1():
-    print()
+def DisplayStatType1(iduser):
+    id_img=user.getImg_pref(iduser)
+    types=[]
+    for id in id_img:
+        types.append(image.recup_type1(id))
+    
+    plt.hist(types)
+    plt.title('Test', fontsize=10)
+    plt.savefig("type1.png")
+    plt.show()
+
 
 #trace courbe/cambert etc des préférence de l'user sur le type2
-def DisplayStatType2():
-    print()
+def DisplayStatType2(iduser):
+    id_img=user.getImg_pref(iduser)
+    types=[]
+    for id in id_img:
+        types.append(image.recup_type2(id))
+    
+    plt.hist(types)
+    plt.title('Test', fontsize=10)
+    plt.savefig("type2.png")
+    plt.show()
 
 #trace courbe/cambert etc des préférence de l'user sur le type image
-def DisplayStatTypeImg():
-    print()
+def DisplayStatTypeImg(iduser):
+    id_img=user.getImg_pref(iduser)
+    types=[0,0]
+    for id in id_img:
+        if image.recup_typeImg(id)==True:
+            #c'est png
+            types[0]+=1
+        else:
+            #c'est jpg
+            types[1]+=1
+
+    print("yeyt",types)
+    plt.pie(types,labels=["png","jpg"],colors=["red","green"], normalize=True)
+    plt.show()
 
 
 
@@ -48,7 +72,7 @@ def clearConsole():
 
 def print_menu():
     menu_options = {
-    1: 'Images',
+    1: 'Statistiques',
     2: 'Stats user',
     4: 'Exit',
     }
@@ -56,9 +80,10 @@ def print_menu():
     for key in menu_options.keys():
         print (key, '--', menu_options[key] )
 
-def option1():
+def statistique():
     clearConsole()
-    print('Images\'Option 1\'')
+    print("mange tes morts")
+    #print('Images\'Option 1\'')
     try:
         option = int(input('Enter your choice: '))
     except:
@@ -83,7 +108,7 @@ def menu():
             print('Mauvais numéro ...')
         #Check what choice was entered and act accordingly
         if option == 1:
-            option1()
+            statistique()
         elif option == 2:
             option2()
         elif option == 4:

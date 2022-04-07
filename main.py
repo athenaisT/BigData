@@ -1,15 +1,27 @@
 from src import display as dis
 from src import nettoyage as net
-from DAO import DAOuser as user 
 
-# git push https://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@github.com/athenaisT/BigData.git
+from src import user as user
 
-dis.menu()
+
+
+import random 
+import string 
+
+# git push https://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@github.com/athenaisT/BigData.git
+
+#dis.menu()
 #net.transform()
+#user.getImg_pref(1)
+#dis.DisplayStatType1(1)
+#dis.DisplayStatTypeImg(1)
+
 #user.create(3)
+#user.createUsers()
+#lastElement = img.pop(0)
 
-
-
+#user.add_preference(1,25)
+#user.remove_preference(1,3)
 
 
 

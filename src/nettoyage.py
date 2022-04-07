@@ -6,6 +6,7 @@ import matplotlib.pyplot as plot
 from sklearn.cluster import KMeans
 from os import listdir
 from os.path import isfile, join, exists
+import os
 import scipy
 import scipy.cluster
 import pandas as pd
@@ -42,7 +43,7 @@ def transform():
                 # on ajoute numPok pour avoir un numero comme clé 
                 key = numPok
                 
-                rows['Tags'] = ""
+                rows['Tags'] = []
 
                 # ajout chemin 
                 filepath = "Images/" + rows['Name']
@@ -59,7 +60,13 @@ def transform():
                 if rows["MainColor"] != "":
                     data[key] = rows
                     numPok+=1
-
+                else :
+                    #removeimage non utilisée
+                    clean_img(rows['Name'])
+            else :
+                clean_img(rows['Name'])
+                #removeimage non utilisée
+                
     # Open a json writer, and use the json.dumps()
     # function to dump data
     with open(jsonFilePath, 'w', encoding='utf-8') as jsonf:
@@ -85,4 +92,12 @@ def findColor(Path):
             return codes[1]
         except :
             return ""
+
+def clean_img(namePokemon):
+    path = "Images/" +namePokemon
+    if exists(path+".png"):
+        path = path + ".png"
+    else:
+        path = path + ".jpg"
+    #os.remove(path)
 
