@@ -76,13 +76,20 @@ def print_menu():
     2: 'Stats user',
     4: 'Exit',
     }
+    #1 - start - generation user
+    #2 - stats type 1 ----> choisir numéro user
+    #3 - stat type 2 ----> choisir numéro user
+    #4 - stat type Img ----> choisir numéro user
+    #5 - stat couleur ----> choisir numéro user
+    #6 - recommandation (que lui montrer ?)
+    #7 - exit
 
     for key in menu_options.keys():
         print (key, '--', menu_options[key] )
 
 def statistique():
     clearConsole()
-    print("mange tes morts")
+    #print("mange tes morts")
     #print('Images\'Option 1\'')
     try:
         option = int(input('Enter your choice: '))
