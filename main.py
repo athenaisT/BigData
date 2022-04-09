@@ -1,10 +1,7 @@
 from src import display as dis
 from src import nettoyage as net
-
+from src import recommandation as re
 from src import user as user
-
-
-
 import random 
 import string 
 
@@ -15,6 +12,8 @@ import string
 #user.getImg_pref(1)
 #dis.DisplayStatType1(1)
 #dis.DisplayStatTypeImg(1)
+#re.recommandation(2)
+re.recommandation(1)
 
 #user.create(3)
 #user.createUsers()
