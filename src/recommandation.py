@@ -73,7 +73,7 @@ def get_title_from_index(data,index):
 
 
 def combine_features(row):
-    # couleur ()
+    # couleur n'est
     txt =""
     for i in row['Tags'] :
         txt += i + " "
