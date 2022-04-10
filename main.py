@@ -2,13 +2,16 @@ from src import display as dis
 from src import nettoyage as net
 from src import recommandation as re
 from src import user as user
+from src import image as image
 import random 
 import string 
 
 # git push https://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@github.com/athenaisT/BigData.git
 
 #dis.menu()
-net.transform()
+#net.transform()
+#image.add_Tag(1,"vache2")
+
 #user.getImg_pref(1)
 #dis.DisplayStatType1(2)
 #dis.DisplayStatType2(2)

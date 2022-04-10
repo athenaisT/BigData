@@ -29,9 +29,9 @@ def write(data):
 
 def add_Tag(idImg, tag):
     data = ouverture()
-    tagImg = data[str(idImg)]['Tag']
+    tagImg = data[str(idImg)]['Tags']
     tagImg.append(tag)
-    data[str(idImg)]['Tag'] = tagImg
+    data[str(idImg)]['Tags'] = tagImg
     write(data)
 
 def recup_type1(id):
