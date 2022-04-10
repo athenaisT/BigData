@@ -8,12 +8,12 @@ import string
 # git push https://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@github.com/athenaisT/BigData.git
 
 #dis.menu()
-#net.transform()
+net.transform()
 #user.getImg_pref(1)
-dis.DisplayStatType1(1)
-dis.DisplayStatType2(1)
+#dis.DisplayStatType1(2)
+#dis.DisplayStatType2(2)
 #dis.DisplayStatTypeImg(15)
-re.recommandation(1)
+#re.recommandation(2)
 #print("----------------------")
 #re.recommandation(1)
 
