@@ -40,6 +40,7 @@ def transform():
         # and add it to data
         for rows in csvReader:
             
+            
             #on ne recupere que les pokemon avec 2 types
             if rows.get('Type2') != None: 
                 # on ajoute numPok pour avoir un numero comme clé 
@@ -51,6 +52,7 @@ def transform():
                 filepath = "Images/" + rows['Name']
 
                 if exists(filepath+".png") or exists(filepath+".jpg"):
+
                     if exists(filepath+".png") :
                         rows["FilePath"] = filepath + ".png"
                         rows["typeImg"] = "PNG"
@@ -63,25 +65,22 @@ def transform():
 
                     # ajout de la ligne dans les données s'il y a une couleur principale
                     if rows["MainColor"] != "" and rows["MainColor"] != None:
-
+                        
                         with open(TagsFilePath, encoding='utf-8') as csvTag:
                             TagsRead = csv.DictReader(csvTag)
                             liste = list(TagsRead)
                             rows['Tags'].append(liste[random.randint(0,len(liste)-1)]['Tag'])
                             rows['Tags'].append(liste[random.randint(0,len(liste)-1)]['Tag'])
-                            
 
                         data[key] = rows
                         numPok+=1
                     else :
                         #removeimage non utilisée
                         clean_img(rows['Name'])
-                else:
-                    clean_img(rows['Name'])
             else :
                 clean_img(rows['Name'])
                 #removeimage non utilisée
-
+    
     # Open a json writer, and use the json.dumps()
     # function to dump data
     with open(jsonFilePath, 'w', encoding='utf-8') as jsonf:
