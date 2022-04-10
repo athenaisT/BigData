@@ -48,25 +48,28 @@ def transform():
                 # ajout chemin 
                 filepath = "Images/" + rows['Name']
 
-                if exists(filepath+".png"):
-                    rows["FilePath"] = filepath + ".png"
+                if exists(filepath+".png") or exists(filepath+".jpg"):
+                    if exists(filepath+".png") :
+                        rows["FilePath"] = filepath + ".png"
+                    else:
+                        rows["FilePath"] = filepath + ".jpg"
+
+                    # ajout de la couleur
+                    rows["MainColor"] = str(findColor(rows["FilePath"]))
+
+                    # ajout de la ligne dans les données s'il y a une couleur principale
+                    if rows["MainColor"] != "" and rows["MainColor"] != None:
+                        data[key] = rows
+                        numPok+=1
+                    else :
+                        #removeimage non utilisée
+                        clean_img(rows['Name'])
                 else:
-                    rows["FilePath"] = filepath + ".jpg"
-
-                # ajout de la couleur
-                rows["MainColor"] = str(findColor(rows["FilePath"]))
-
-                # ajout de la ligne dans les données s'il y a une couleur principale
-                if rows["MainColor"] != "":
-                    data[key] = rows
-                    numPok+=1
-                else :
-                    #removeimage non utilisée
                     clean_img(rows['Name'])
             else :
                 clean_img(rows['Name'])
                 #removeimage non utilisée
-                
+
     # Open a json writer, and use the json.dumps()
     # function to dump data
     with open(jsonFilePath, 'w', encoding='utf-8') as jsonf:
@@ -99,5 +102,5 @@ def clean_img(namePokemon):
         path = path + ".png"
     else:
         path = path + ".jpg"
-    #os.remove(path)
+    os.remove(path)
 

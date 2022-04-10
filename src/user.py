@@ -33,7 +33,7 @@ def createUsers():
         for j in range (0,20):
             imgs=image.ouverture()
             total=len(imgs) 
-            row['Preference'].append(random.randint(0,total))
+            row['Preference'].append(random.randint(1,total))
         data[i+1] = row
   #     # 3. Write json file 
   

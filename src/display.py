@@ -26,7 +26,7 @@ def DisplayStatType1(iduser):
         types.append(image.recup_type1(id))
     
     plt.hist(types)
-    plt.title('Test', fontsize=10)
+    plt.title('Diagramme de preference du type 1', fontsize=10)
     plt.savefig("type1.png")
     plt.show()
 
@@ -39,7 +39,7 @@ def DisplayStatType2(iduser):
         types.append(image.recup_type2(id))
     
     plt.hist(types)
-    plt.title('Test', fontsize=10)
+    plt.title('Diagramme de preference du type 2', fontsize=10)
     plt.savefig("type2.png")
     plt.show()
 
@@ -55,7 +55,7 @@ def DisplayStatTypeImg(iduser):
             #c'est jpg
             types[1]+=1
 
-    print("yeyt",types)
+    #print("yeyt",types)
     plt.pie(types,labels=["png","jpg"],colors=["red","green"], normalize=True)
     plt.show()
 
