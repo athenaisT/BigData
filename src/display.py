@@ -22,10 +22,19 @@ def DisplayStatCouleur():
 def DisplayStatType1(iduser):
     id_img=user.getImg_pref(iduser)
     types=[]
+    distinctType = []
     for id in id_img:
-        types.append(image.recup_type1(id))
+        type1 = image.recup_type1(id)
+        if type1 not in distinctType :
+                distinctType.append(type1)
+        types.append(type1)
     
-    plt.hist(types)
+    typeNumber = []
+    for i in range (len(distinctType)):
+        typeNumber.append(types.count(distinctType[i]))
+
+    c = ['red', 'yellow', 'green', 'blue', 'purple']
+    plt.bar(distinctType,typeNumber ,color=c)
     plt.title('Diagramme de preference du type 1', fontsize=10)
     plt.savefig("type1.png")
     plt.show()
@@ -35,10 +44,19 @@ def DisplayStatType1(iduser):
 def DisplayStatType2(iduser):
     id_img=user.getImg_pref(iduser)
     types=[]
+    distinctType = []
     for id in id_img:
-        types.append(image.recup_type2(id))
+        type2 = image.recup_type2(id)
+        if type2 not in distinctType :
+                distinctType.append(type2)
+        types.append(type2)
     
-    plt.hist(types)
+    typeNumber = []
+    for i in range (len(distinctType)):
+        typeNumber.append(types.count(distinctType[i]))
+
+    c = ['red', 'yellow', 'green', 'blue', 'purple']
+    plt.bar(distinctType,typeNumber ,color=c)
     plt.title('Diagramme de preference du type 2', fontsize=10)
     plt.savefig("type2.png")
     plt.show()
@@ -60,6 +78,37 @@ def DisplayStatTypeImg(iduser):
     plt.show()
 
 
+def DisplayStatTag(iduser):
+    id_img=user.getImg_pref(iduser)
+    types=[]
+    distinctTags = []
+    for id in id_img:
+        Tags = image.recup_tag(id)
+        for tag in  Tags :
+            if tag not in distinctTags :
+                distinctTags.append(tag)
+            types.append(tag)
+
+    tagNumber = []
+    for i in range (len(distinctTags)):
+        tagNumber.append(types.count(distinctTags[i]))
+
+    c = ['red', 'yellow', 'green', 'blue', 'purple']
+    plt.bar(distinctTags,tagNumber ,color=c)
+    plt.title('Diagramme de preference de tag', fontsize=10)
+    plt.savefig("tag.png")
+    plt.show()
+
+ 
+# #data
+# x = [1, 2, 3, 4, 5]
+# h = [10, 8, 12, 4, 7]
+# c = ['red', 'yellow', 'black', 'blue', 'orange']
+ 
+# #bar plot
+# plt.bar(x, height = h, color = c)
+ 
+# plt.show()
 
 ################################Affichage Menue
 

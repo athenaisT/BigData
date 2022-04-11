@@ -42,6 +42,10 @@ def recup_type2(id):
     data = ouverture()
     return data[str(id)]['Type2']
 
+def recup_tag(id):
+    data = ouverture()
+    return data[str(id)]['Tags']
+
 def recup_name(id):
     data = ouverture()
     return data[str(id)]['Name']
